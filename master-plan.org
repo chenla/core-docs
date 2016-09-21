@@ -46,7 +46,7 @@ echo $RES
 Working Back to first principles
 
 
-** Problematic Nomenclature: The Four Strawmen of the Apocalypse
+* Problematic Nomenclature: The Four Strawmen of the Apocalypse
 
 Several core concepts that we will be dealing with in this
 work will trigger all manner of dreadful wailing and
@@ -282,7 +282,7 @@ computational engine.
    other and other members of mankind, including dogs, and now
    computers and robots
 
-* Homoiconographic
+* Homoiconography
 
 Equivalence of code and data
 
