@@ -42,6 +42,155 @@ echo $RES
 #+HTML: </div>
 
 * Introduction
+
+Working Back to first principles
+
+
+** Problematic Nomenclature: The Four Strawmen of the Apocalypse
+
+Several core concepts that we will be dealing with in this
+work will trigger all manner of dreadful wailing and
+knashing of teeth.  We certainly acknowledge 
+
+So let's get these out of the way, so that it's clearly
+understood our position on these two subjects and how we
+will use these terms going forward.
+
+Most of the fear comes from ignorance.  We project our fears
+onto things we don't understand.  The most dangerous
+example of this is when smart people, especially scientists
+from one field or discipline make pronoucements about things
+outside of their field's of expertiese.
+
+Steven Hawking, Elon Musk, Bill Joy -- all have made public
+statements about the dangers of AI -- even though they have
+little more than a layman's mastery of the subject.
+
+xxx, xxx, xxx have all made public statements about genetic
+modification.  These are all some of the most brilliant
+people on the planet /in their field of expertise/ and
+shouldn't be taken any more seriously than when a musician
+or pop star weighs-in on such subjects.
+
+But the Internet gives people the illusion that we are all
+experts because we can type a string into a search engine
+and spend ten minutes reading something written by someone
+who only knows more than you do because they have spent a
+couple of hours reading about it.
+
+We, as a culture and civilization needs to instill a bit
+more humility, and become comfortable with not knowing, and
+not having an opinion on /everything/.  But at the same
+time, knowing you don't know should always be a trigger that
+spurs you into deep observation, study and contemplation to
+try to figure out figure out what is really happening and
+then share what we have learned with others, and finally
+return to an era where we can put trust in people who have
+done the hard work to find out other things that we will
+never have time to learn.
+
+*** AI
+
+ - Machine Learning
+ - Deep Learning
+ - Artifical Intelligence
+
+*** The Singularity
+
+ - the nerd rapture
+ - nightfall
+ - 
+
+*** Genetic Modification
+
+*** Nuclear Power
+
+Every time you take a sip of the latte that you paid far too
+much for in some souless coffee chain store on your way to
+work, every freshly picked autumn apple you crunch into as
+you watch the leaves turn color and fall dead to the earth
+(for those of you in temperate climates), every time you
+smugly flick on your super energy efficient LED desk lamp
+that is drawing power from a solar array, or wind turbine,
+or biofuel made from crops that should be producing food,
+every time you fire up your monster SUV to take your
+snowflake offspring to school in the morning which is only
+150 meters from your front door.... you are using nuclear
+energy.  In fact, without nuclear power there would be no
+life, no liquid water, no air (as we breath it).  
+
+The fact that man can now split and fuse the atom is a good
+thing -- these are still early days for nuclear power.
+The first nuclear pile, in Boston? in 194X was only xx years
+ago.  And since then more than half of that time has not
+been spent in improving the technology and making it more
+safe, it's been spent in fear and loathing and spreading
+FUD.
+
+Renewable is an ugly term.  The sun's energy is only
+renewable to us because of how short the human lifespan is.
+The Sun is a terrible, voracious waster of resources,
+gobbling up hydrogen at a a rate of <XXXXX> and radiating it
+into space in all directions.  Eventually it will run out of
+fuel, blimp out as it cools and then eventually collapse on
+itself into a white dwarf -- if the sun was more fuel
+efficient it might live several orders of magnitude longer.
+
+Calling carbon based fuels non-renewable is the same thing
+-- given a hundred million years or so, ground oil will be
+restored as long as the sun keeps burning and life continues
+to flourish on this planet.
+
+Calling minerals used in manufacturing finite is equally as
+silly.  We as a species have always used what resources are
+available locally and then move to new locations when those
+resources have been exhausted.  The only thing keeping us
+from us not doing this now is a lack of imagination -- there
+are many million years worth of mineral resources available
+in our solar system.  And we're not talking about the outer
+planets here -- we have a large moon, more asteroids close
+to earth than might be imagined, and then we have the vast
+asteroid belt out beyond Mars orbit.  Once we learn to tap
+into these resources robotically, there will never be a
+shortage of base metals, and we won't have to scar the earth
+with strip mines and industrial processing that poison and
+pollute our ecosystems.
+
+We will get into this in more depth later in the work, but
+we believe that energy production should be, whenever
+possible, decentralized and that whatever technology that
+makes sense for the job should be employed.  There is no
+magic bullet.  Most domestic electrical needs can be met by
+locally installed solar or wind.  Once vehicles have been
+electrified, much of the power to charge them will also come
+from so-called renewable energy generation.
+
+If heavy industry is moved into space, a combination of
+solar and nuclear will provide all of the power needed.
+
+On earth, the thing that will really require nuclear will be
+computers.  At present Google, just one company, uses XX% of
+America's electrical capacity.  And we are still in early
+days....  fifty years from now today's Googleplex will seem
+like a pocket calculator -- we will need an enormous amount
+of power to mainting the amount of computation our
+civilization depends on for its survival -- it's a simple
+matter of physics.  Nuclear power will be the only viable
+means of providing this.
+
+And unless we can leverage quantum entanglement and scale it
+to provide massive bandwidth -- much of that computation
+will have to be located in places where latency is low
+enough to be practical and that distance will be determined
+by the speed of light.
+
+This is already a governing factor in locating data centers
+for high volume micro-trading in major stock markets --
+computation can not be more than XX kilometers from the
+trading floor (which actually is just another server farm)
+because any further than that would increase latency and
+slow down the system.
+
 * First Principles
 
 It From Bit
