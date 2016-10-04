@@ -191,160 +191,22 @@ trading floor (which actually is just another server farm)
 because any further than that would increase latency and
 slow down the system.
 
-* First Principles
-
-It From Bit
-
-  - information
-  - energy
-  - entropy
-
-  - time is (+ entropy (or energy energy))
-  - entropy and time are not reversible
-  - life is a self organizing information machine -- goes against entropy
-
-If it requires energy it is finite.
-
-  - computation is finite
-  - physical things are finite
-  - computation is work
-  - work expends energy
-  
-** Finite and Infinite Resources
-
-  If I can take something, and it deprives someone of that thing, it
-  is a finite resource.
-
-  If I can make a copy of something and it doesn't deprive others of
-  that thing than it is an infinite resource
-
-* Encoding & Structure
-
- - primitives :: symbols, numbers, strings, lists
- - triples :: subject, predicate, object
- - directed property graphs :: edges and vertices where everything is
-      a relationship.
-
-* Context & Scale
-
- - LOD
- - POV
- - ROC
-
-* Holons
-
-No man is an island, he is a holon
-
-It's holons, all the way down....
-
- - everything has a dual whole/part nature depending on POV and LOD
- - Everything can be viewed as an atom or a holon
- - atoms are mutually exclusive
- - holons are both:
-    - self contained semi-autonmous wholes
-    - parts of a larger structure
-
-* Mind and Body
-
-The mammal neocortex is a self-programing general purpose
-computational engine.
-
-- hierachical AND linear
-
-** Extension of Cognition and Memory
-
-- Life -> neocortex
-- neocortex -> speech
-- speech -> writing
-
-- cognitive machines (computers)
-
-** Extension of Muscle and the Senses
-
-- dogs extended our smell and hearing
-- tools extended out hands
-- cows and horses extended our muscles
-
-** Machines
-
-- machines combine tools and external energy
-
-** Robots
-
-- robots are machines controlled by compters
-
-* Mankind
-
- Mankind is more than the hominid homo sapien, 
-
- - we are a transactive species
- - we spread the load of cognition, memory and muscles between each
-   other and other members of mankind, including dogs, and now
-   computers and robots
-
-* Homoiconography
-
-Equivalence of code and data
-
-We need self-processing graphs -- processes -> the whole
-graph is both code & data -- that runs everytime that the
-graph changes -- change one thing and the change propagates
-out through the whole graph and all other graphs connected
-to it -- so yes, concurrency, going forward will be a big
-thing.
-
-* Building Blocks
-
-We can build anything using four fundemental building blocks:
-
-  - Process :: steps and rules
-  - Message :: docs, messages, storage, blobs are are all messages --
-       that are nodes in graphs that model a holon.  Messages have are
-       anything that change state from one location, time, etc to another.
-       storage is sending a message with a delay between sending and
-       recieving.
-   - State :: 
-   - Relationship :: 
-
-*** Work as a foundation for transactions
-
-  - Providing energy & performing work generates tokens
-  - Using energy destroys tokens
-  - Using energy or work done by someone else transfers tokens from
-    you to them. 
-* Maps
-
-Holons are extended and interact with each other through cognitive
-maps which can be modeled as directed property graphs.
-
-** Cognitive
-
-A person is a holon that has a conception of self -- which is similar
-too but not the same as self-awareness -- a term that carries a lot of
-baggage.
-
-Persons are a conceptual holon, they don't exists except as an
-abstract self-consciousness;
-
-Persons are a collection personas -- aspects of the self
-that is used internally and or presented to the world as a
-self-contained entity.
-
-Personas are made up of roles -- roles are overlapping.
-
-Persons Holons are modeled both in the brain and externally as a group
-of overlapping, intersecting directed property graphs.  Each of these
-graphs is a shard of a person, persona or role which we call a 
-=horcrux=.
-
-** Collective
-
-*** Human thresholds -- memory, group size
-*** levels of separation
 
 
-
-** Inanimate
+* Multi-Planet Species
+ - earth
+ - luna
+ - mars
+ - asteroids
+* Independent Bioregions
+* Cities
+* Towns
+* Villages
+* World Wide Mesh
+* Shops
+* Individuals
+** Devices
+** Person Holons
 * On Being the Right Size
 
 Haldane's thesis is that sheer size very often defines what
@@ -380,22 +242,155 @@ quantum.
   | Communities & small towns | 5-10,000  |
   | Neighborhood              | 500-1000  |
   | House Cluster/Work Group  | 30-50     |
+* Mankind
 
-* Person Holons
-* Devices
-* Shops
-* World Wide Mesh
+ Mankind is more than the hominid homo sapien, 
 
-* -- now lets work backwards
+ - we are a transactive species
+ - we spread the load of cognition, memory and muscles between each
+   other and other members of mankind, including dogs, and now
+   computers and robots
+* Maps
 
-** Multi-Planet Species
- - earth
- - luna
- - mars
- - asteroids
-** Independent Bioregions
-** Cities
-** Towns
-** Villages
+Holons are extended and interact with each other through cognitive
+maps which can be modeled as directed property graphs.
+
+** Cognitive
+
+A person is a holon that has a conception of self -- which is similar
+too but not the same as self-awareness -- a term that carries a lot of
+baggage.
+
+Persons are a conceptual holon, they don't exists except as an
+abstract self-consciousness;
+
+Persons are a collection personas -- aspects of the self
+that is used internally and or presented to the world as a
+self-contained entity.
+
+Personas are made up of roles -- roles are overlapping.
+
+Persons Holons are modeled both in the brain and externally as a group
+of overlapping, intersecting directed property graphs.  Each of these
+graphs is a shard of a person, persona or role which we call a 
+=horcrux=.
+
+** Collective
+
+*** Human thresholds -- memory, group size
+*** levels of separation
+
+
+
+** Inanimate
+* Building Blocks
+
+We can build anything using four fundemental building blocks:
+
+  - Process :: steps and rules
+  - Message :: docs, messages, storage, blobs are are all messages --
+       that are nodes in graphs that model a holon.  Messages have are
+       anything that change state from one location, time, etc to another.
+       storage is sending a message with a delay between sending and
+       recieving.
+   - State :: 
+   - Relationship :: 
+
+*** Work as a foundation for transactions
+
+  - Providing energy & performing work generates tokens
+  - Using energy destroys tokens
+  - Using energy or work done by someone else transfers tokens from
+    you to them. 
+* Homoiconography
+
+Equivalence of code and data
+
+We need self-processing graphs -- processes -> the whole
+graph is both code & data -- that runs everytime that the
+graph changes -- change one thing and the change propagates
+out through the whole graph and all other graphs connected
+to it -- so yes, concurrency, going forward will be a big
+thing.
+
+* Mind and Body
+
+The mammal neocortex is a self-programing general purpose
+computational engine.
+
+- hierachical AND linear
+
+** Extension of Cognition and Memory
+
+- Life -> neocortex
+- neocortex -> speech
+- speech -> writing
+
+- cognitive machines (computers)
+
+** Extension of Muscle and the Senses
+
+- dogs extended our smell and hearing
+- tools extended out hands
+- cows and horses extended our muscles
+
+** Machines
+
+- machines combine tools and external energy
+
+** Robots
+
+- robots are machines controlled by compters
+* Context & Scale
+
+ - LOD
+ - POV
+ - ROC
+* Holons
+
+No man is an island, he is a holon
+
+It's holons, all the way down....
+
+ - everything has a dual whole/part nature depending on POV and LOD
+ - Everything can be viewed as an atom or a holon
+ - atoms are mutually exclusive
+ - holons are both:
+    - self contained semi-autonmous wholes
+    - parts of a larger structure
+
+* Encoding & Structure
+
+ - primitives :: symbols, numbers, strings, lists
+ - triples :: subject, predicate, object
+ - directed property graphs :: edges and vertices where everything is
+      a relationship.
+
+* First Principles
+
+It From Bit
+
+  - information
+  - energy
+  - entropy
+
+  - time is (+ entropy (or energy energy))
+  - entropy and time are not reversible
+  - life is a self organizing information machine -- goes against entropy
+
+If it requires energy it is finite.
+
+  - computation is finite
+  - physical things are finite
+  - computation is work
+  - work expends energy
+  
+** Finite and Infinite Resources
+
+  If I can take something, and it deprives someone of that thing, it
+  is a finite resource.
+
+  If I can make a copy of something and it doesn't deprive others of
+  that thing than it is an infinite resource
 
 
