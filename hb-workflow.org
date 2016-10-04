@@ -215,25 +215,52 @@ name.
   
 *** Teams
 
-.Backend, .Frontend, .Infra, .UI, .Wetlab, .Softlab, .Hardlab
+Should use 
+
+#+begin_src css
+/* Teams ---------------------------------*/
+.tag span.Backend,
+.tag span.Frontend,
+.tag span.UI,
+.tag span.Infra,
+.tag span.Wetlab,
+.tag span.Hardlab,
+.tag span.Softlab { background: #5CB85C; }
+#+end_src
+
+When rendered in html.
+
+ - Backend  :: Backend Team
+ - Frontend :: Frontend Team
+ - Infra    :: Infrastructure Team
+ - UI       :: User Interface Team
+ - Wetlab   :: Wet Lab Team
+ - Softlab  :: Soft Lab Team
+ - Hardlab  :: Hard Lab Team
 
 *** Organization
-
-.chenla, .studyhall, .repozit
+ - chenla    ::
+ - studyhall :: 
+ - repozit   :: 
 
 *** Projects
-
-.saltmine, .rabbithole
+ - saltmine   :: 
+ - rabbithole :: 
 
 ** Subject, Type, Priority
 
-*** Workflow
-
-#NEXT, #WORK, #TODO, #PLAN
+*** Workflow-Kanban
+ - PLAN ::   (backlog)
+ - NEXT :: 
+ - WORK ::
+ - DONE ::
 
 *** Type
-
-#bug, #feature, #request, #wish, #moonshot
+ - bug      :: 
+ - feature  ::
+ - request  :: 
+ - wish     :: 
+ - moonshot :: 
 
 *** Priority 
 
