@@ -1,0 +1,96 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Chenla Core Docs
+#+STARTUP: showall
+#+PROPERTY: filename 
+#+INCLUDE: ./inc/head.org
+#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/deerpig/deerpig-install/index.org
+  :Created: 2016-08-20T16:40@Wat Phnom (11.5733N17-104.925295W)
+  :ID: 5995dc73-91da-4940-bae1-efb75ce040d4
+  :URL:
+  :END:
+#+INCLUDE: ./inc/macros.org
+#+INCLUDE: ./inc/links.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* About these pages
+
+#+begin_quote
+This page describes documentation, team handbooks and technical
+specifications that are part of the Chenla Project.
+#+end_quote
+
+* Recent Activity
+
+Recent change activity on http://github.com/chenla/core-docs
+
+#+BEGIN_SRC sh :exports results :results silent
+githubchart -u chenla ./img/contrib.svg
+#+END_SRC
+
+#+RESULTS:
+
+[[./img/contrib.svg]]
+
+#+HTML: <div class="contrib-legend text-small text-muted" title="A summary of pull requests, issues opened, and commits to the default and gh-pages branches.">
+#+HTML:  <span>Less</span>
+#+HTML:   <ul class="legend">
+#+HTML:     <li style="background-color: #eee"></li>
+#+HTML:     <li style="background-color: #d6e685"></li>
+#+HTML:     <li style="background-color: #8cc665"></li>
+#+HTML:     <li style="background-color: #44a340"></li>
+#+HTML:     <li style="background-color: #1e6823"></li>
+#+HTML:   </ul>
+#+HTML:  <span>More</span>
+#+HTML: </div>
+
+* Feedback
+
+Please make a [[https://github.com/deerpig/deerpig-install][pull request]] on Github to suggest improvements or add
+clarifications. Please use the [[http://bugs.chenla.org/support/][chenla issue tracker]] to ask questions.
+
+* Handbooks
+  - Team
+  - Engineering
+  - Task & Project Planning
+  - Publishing
+  - Communications
+  - Citations
+  - [[./hb-collaboration.org][Collaboration]]
+  - [[./hb-conventions.org][Conventions]]
+  - [[./hb-style-guides.org][Style Guides]]
+  - Version Control
+  - [[./hb-doc-production.org][Documentation Production]]
+
+* Runbooks 
+* Emacs & Orgmode Config
+* Cookbooks
+* Colophon
+  - Making this document
+* Licence
+
+#+begin_quote
+The MIT License (MIT)
+
+Copyright (c) 2016 chenla
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+#+end_quote
