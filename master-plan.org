@@ -60,19 +60,10 @@ Most of the fear comes from ignorance.  We project our fears
 onto things we don't understand.  The most dangerous
 example of this is when smart people, especially scientists
 from one field or discipline make pronoucements about things
-outside of their field's of expertiese.
+outside of their domain of expertiese.
 
-Steven Hawking, Elon Musk, Bill Joy -- all have made public
-statements about the dangers of AI -- even though they have
-little more than a layman's mastery of the subject.
 
-xxx, xxx, xxx have all made public statements about genetic
-modification.  These are all some of the most brilliant
-people on the planet /in their field of expertise/ and
-shouldn't be taken any more seriously than when a musician
-or pop star weighs-in on such subjects.
-
-But the Internet gives people the illusion that we are all
+The Internet gives people the illusion that we are all
 experts because we can type a string into a search engine
 and spend ten minutes reading something written by someone
 who only knows more than you do because they have spent a
