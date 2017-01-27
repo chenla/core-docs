@@ -60,17 +60,31 @@ give you a chance to think about the next hour, let alone tomorrow.
 
 
 
-
-In the United States there used to be a concept of a conservative --
-someone who is concerned about conservation, maintaining stability,
-continuity and protecting what is valuable.  No longer -- the word now
-refers to a concept of commerce as being at the same level as fashion
--- grab what you can, as fast as you can and damn the consequences.
-
-
 fast -> slow
 
 firehose -> otium
+
+* Internal Communications
+
+always use plain text -- if you /must/ send formated messages, you
+multipart mime (plain text and html)
+
+* Devices
+
+Devices and the limitations that they impose on what they can be used
+to read and respond to communications belong to different shearing
+layers -- don't try to use the wrong device/interface to work in the
+wrong shearing layer.
+
+Don't use a device to communicate that isn't appropriate to the type
+of communication.
+
+mobile         --> short form
+desktop/laptop --> long form
+
+* Etiquette
+
+
 
 * Communication Channels
 
