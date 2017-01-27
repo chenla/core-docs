@@ -1,0 +1,93 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: 
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/core-docs/rb-communications.org
+  :Created: 2017-01-27T20:38@Prek Leap (11.642600N-104.919210W)
+  :ID: b7647643-c7f3-42c9-97d7-2106911c0cf4
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES=`git log $TAG...HEAD --pretty="<li>%s</li>\n" -- hb-communications.org`
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+* Shearing Model
+
+Gibson said it -- the future is already here, it's just not evenly
+distributed
+
+People today don't understand shearing -- they think everything is
+happening at the same speed -- that everything is simultaneous --
+there is no separation of layers -- it's all a firehose that doesn't
+give you a chance to think about the next hour, let alone tomorrow.
+
+
+
+
+In the United States there used to be a concept of a conservative --
+someone who is concerned about conservation, maintaining stability,
+continuity and protecting what is valuable.  No longer -- the word now
+refers to a concept of commerce as being at the same level as fashion
+-- grab what you can, as fast as you can and damn the consequences.
+
+
+fast -> slow
+
+firehose -> otium
+
+* Communication Channels
+
+** Snail Mail
+** Sneakernet
+** Store and Forward (UUCP & NNTP)
+** Email
+** Chat (Slack, Mattermost, IRC)
+** Issue Tracking
+** Instant Messaging (Telegram/Signal etc & SMS)
+** Phone Calls
+** Google Docs
+** Video Chat
+
+* Chenla (b>i) Workflow
+
+* References
+
+  - [[https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.jj84wayws][Is group chat making you sweat?]] | Signal v. Noise
+  - [[https://about.gitlab.com/handbook/#communication][Communications: Team Handbook]] | GitLab
