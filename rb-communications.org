@@ -87,13 +87,38 @@ persistent vs transient
 
 * Interruptions
 
+#+begin_quote
+Yeah, my feeling is that the modern workplace is structured
+completely wrong. It’s really optimized for
+interruptions. And interruptions are the enemy of work. They
+are the enemy of productivity, they are the enemy of
+creativity, they are the enemy of everything. But that’s
+what the modern workplace is all about, it’s
+interruptions. Everyone’s calling meetings all the time,
+everyone’s screaming people’s names across the thing,
+there’s phones ringing all the time. People are walking
+around. It’s all about interruptions. And people go to work
+today, and then they end up doing most of their real work
+after work, or on the weekends. So, people are working
+longer hours, people are tired – I’m working 50-60 hours
+this week. It’s not that there’s 50 or 60 hours worth of
+work to do, it’s because you don’t work at work anymore. You
+go to work to get interrupted.
+
+-- Jason Fried | [[http://bigthink.com/videos/why-you-cant-work-at-work][Why You Can’t Work at Work]]
+#+end_quote
+
+
 Interruptions can really fuck up your workflow -- takes 5-45 min to
 get back into the groove... so showing respect for others is /very/
 important. 
 
+  - [[http://blog.ninlabs.com/2013/01/programmer-interrupted/][Programmer Interrupted]]
+  - [[http://bigthink.com/videos/why-you-cant-work-at-work][Why You Can’t Work at Work]] | Big Think (includes transcript)
+
 * Hacker vs Manager's schedules
 
-    - [[http://www.paulgraham.com/makersschedule.html][Maker's Schedule, Manager's Schedule]]
+  - [[http://www.paulgraham.com/makersschedule.html][Maker's Schedule, Manager's Schedule]]
 
 * Internal Communications
 
