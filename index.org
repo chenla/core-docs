@@ -71,7 +71,7 @@ clarifications. Please use the [[http://bugs.chenla.org/support/][chenla issue t
   - Version Control
   - [[./hb-doc-production.org][Documentation Production]]
 
-* Runbooks 
+* Runbooks
 * Emacs & Orgmode Config
 * Cookbooks
 * Colophon
@@ -81,7 +81,7 @@ clarifications. Please use the [[http://bugs.chenla.org/support/][chenla issue t
 #+begin_quote
 The MIT License (MIT)
 
-Copyright (c) 2016 chenla
+Copyright (c) 2016, 2017 chenla
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

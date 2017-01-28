@@ -1,0 +1,151 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: 
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/core-docs/rb-communications.org
+  :Created: 2017-01-27T20:38@Prek Leap (11.642600N-104.919210W)
+  :ID: b7647643-c7f3-42c9-97d7-2106911c0cf4
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES=`git log $TAG...HEAD --pretty="<li>%s</li>\n" -- hb-communications.org`
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+* Shearing Model
+
+Gibson said it -- the future is already here, it's just not evenly
+distributed
+
+People today don't understand shearing -- they think everything is
+happening at the same speed -- that everything is simultaneous --
+there is no separation of layers -- it's all a firehose that doesn't
+give you a chance to think about the next hour, let alone tomorrow.
+
+
+
+fast -> slow
+
+firehose -> otium
+
+* MMU Communication Patterns
+
+persistent vs transient
+
+  - static content publication :: bittorent, ftp
+     DHT/Swarm
+  - connection between identities :: voip, rtc
+     Raw P2P Connection
+  - transient datagrams :: email, twitter,  IM, irc
+      routing privacy is important
+      vulnerable to end-point analysis
+    - wholly directed :: im, email
+    - partially directed :: mailing list, usenet
+    - filterable global :: twitter, registries, content-search
+
+
+- [[https://www.youtube.com/watch?v=BrWlAtfqF6s][ÐΞVcon-0-Whisper: the Multi DHT Messaging System with Routing Privacy. Vision & Roadmap. - YouTube]]
+
+* Interruptions
+
+Interruptions can really fuck up your workflow -- takes 5-45 min to
+get back into the groove... so showing respect for others is /very/
+important. 
+
+* Hacker vs Manager's schedules
+
+* Internal Communications
+
+always use plain text -- if you /must/ send formated messages, use 
+multipart mime (plain text and html)
+
+* Devices
+
+Devices and the limitations that they impose on what they can be used
+to read and respond to communications belong to different shearing
+layers -- don't try to use the wrong device/interface to work in the
+wrong shearing layer.
+
+Don't use a device to communicate that isn't appropriate to the type
+of communication.
+
+mobile         --> short form
+desktop/laptop --> long form
+
+* Etiquette
+
+ 
+* Style
+
+  - emoticons -- text, not graphic or unicode
+  - acronyms (LOL, ROFL, IANAL, NSFW)
+
+* Security, Transparency & Accountability
+
+We're open, and distributed, so the vast majority of what we do is in
+the open, so secrecy is not really an burning issue.  However, because
+we are open, transparency /is/ important and by extension,
+accountability.
+
+ 
+
+  - keep different roles separate
+  - 
+
+* Communication Channels (1-to-one and 1-to-many)
+
+NOTE: look up etherium whisper video 
+
+** Snail Mail
+** Sneakernet
+** Store and Forward (UUCP & NNTP)
+** Email
+** Chat (Slack, Mattermost, IRC)
+** Issue Tracking
+** Instant Messaging (Telegram/Signal etc & SMS)
+** Phone Calls
+** Google Docs
+** Video Chat
+
+* Chenla (b>i) Workflow
+
+* References
+
+  - [[https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.jj84wayws][Is group chat making you sweat?]] | Signal v. Noise
+  - [[https://about.gitlab.com/handbook/#communication][Communications: Team Handbook]] | GitLab
