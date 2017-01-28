@@ -50,19 +50,22 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Shearing Model
 
-Gibson said it -- the future is already here, it's just not evenly
-distributed
+#+begin_quote
+the future is already here, it's just not evenly
+distributed.
+
+-- William Gibson
+#+end_quote
 
 People today don't understand shearing -- they think everything is
 happening at the same speed -- that everything is simultaneous --
 there is no separation of layers -- it's all a firehose that doesn't
 give you a chance to think about the next hour, let alone tomorrow.
 
-
-
-fast -> slow
-
-firehose -> otium
+  - real time         :: phone calls, voip
+  - near real time    :: instant messaging & irc
+  - fast asynchronous :: twitter, facebook (in-your-face asynchronous)
+  - slow asynchronous :: email, usenet. rss, mailing lists, online forums
 
 * MMU Communication Patterns
 
@@ -90,6 +93,8 @@ important.
 
 * Hacker vs Manager's schedules
 
+    - [[http://www.paulgraham.com/makersschedule.html][Maker's Schedule, Manager's Schedule]]
+
 * Internal Communications
 
 always use plain text -- if you /must/ send formated messages, use 
@@ -108,9 +113,45 @@ of communication.
 mobile         --> short form
 desktop/laptop --> long form
 
-* Etiquette
+* Etiquette & Hacker Ethics
 
- 
+The Git Lab manual is very proscriptive --  as it should be,
+but process and behavior are not always the same thing.
+
+  - always use english in communications -- even if it is
+    one-to-one, because it might be quoted...
+  - use the past-tense when describing things, which makes
+    it easier to quote and integrate into other
+    communications and documents.
+  
+** How to ask Questions
+
+ - [[http://www.catb.org/~esr/faqs/smart-questions.html][How To Ask Questions The Smart Way]] Eric Raymond
+
+
+** Issue Reporting
+
+  - when reporting an issue, always state:
+    - a description of the problem (including code and or
+      screenshots if needed)
+    - a description of the software and operating system the
+      issue occured on, and what other combinations of
+      hardware and software you have been able to duplicate
+      the issue.
+    - the output of error messages, log files and debugging tools.
+    - an explanation of what you have tired to resolve the issue.
+    - an explanation of where you have searched for the
+      solution.
+
+More specifically, it would be great if issues pointed to a
+specific instance of a container and that the issue is
+written as literate devop document in orgmode.  This would
+make it trivial for anyone to spin up the container and run
+the code from the org document and play with it and
+hopefully contribute a solution.
+
+
+
 * Style
 
   - emoticons -- text, not graphic or unicode
