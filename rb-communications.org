@@ -48,6 +48,8 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+
+
 * Shearing Model
 
 #+begin_quote
@@ -138,20 +140,118 @@ of communication.
 mobile         --> short form
 desktop/laptop --> long form
 
-* Etiquette & Hacker Ethics
+* Hacker Ethics
+:NOTE: will be split off into hb-culture.org
+:SEE: [[https://en.wikipedia.org/wiki/Hacker_ethic][Hacker ethic]] | Wikipedia
+:SEE: [[https://en.wikipedia.org/wiki/Hacker_culture][Hacker culture]] | Wikipedia
+
+Commonly held hacker beliefs and personality traits:
+
+#+begin_quote
+Before communications between computers and computer users
+were as networked as they are now, there were multiple
+independent and parallel hacker subcultures, often unaware
+or only partially aware of each other's existence. All of
+these had certain important traits in common:
+
+   - Creating software and sharing it with each other
+   - Placing a high value on freedom of inquiry
+   - Hostility to secrecy
+   - Information-sharing as both an ideal and a practical
+     strategy
+   - Upholding the right to fork
+   - Emphasis on rationality
+   - Distaste for authority
+   - Playful cleverness, taking the serious humorously and
+     humor seriously
+
+-- [[https://en.wikipedia.org/wiki/Hacker_culture][Hacker culture]] | Wikipedia
+#+end_quote
+
+  - Laziness
+  - Sharing
+  - Openness
+  - Decentralization
+  - Free access to computers
+  - World Improvement
+
+
+  - Access to computers-and anything that might teach you
+    something about the way the world works-should be
+    unlimited and total.
+  - All information should be free.
+  - Hackers should be judged by their hacking, not bogus
+    criteria such as degrees, age, race, or position.
+  - You can create art and beauty on a computer.
+  - Computers can change your life for the better.
+
+
+
+* Etiquette
 
 The Git Lab manual is very proscriptive --  as it should be,
 but process and behavior are not always the same thing.
 
-  - always use english in communications -- even if it is
-    one-to-one, because it might be quoted...
-  - use the past-tense when describing things, which makes
-    it easier to quote and integrate into other
-    communications and documents.
-  
+Back in the day, in the 80's when I first started learning
+Unix, hacker culture and ethics in mailing lists, Usenet and
+email, I was taught that:
+
+  - always exhaust every eay you can think of trying to
+    solve a problem on your own before asking for help.
+  - if you ask a question, you are obliged to answer three
+    questions from other people.  In the 90's in a Will
+    Smith movie this became known as /paying it forward/.
+
 ** How to ask Questions
 
+#+begin_quote
+Claiming something “does not work” isn’t what one programmer
+says to another programmer.  The phrase “does not work”
+should be reserved for when you’re taking your car to the
+mechanic and you don’t have a clue what’s wrong with it.  If
+you’re telling a programmer that a particular piece of
+source code simply “does not work”, then you should no
+longer consider yourself a programmer.
+
+-- Nick Griffith | [[http://importblogkit.com/2015/07/does-not-work/][Does Not Work]]
+#+end_quote
+
  - [[http://www.catb.org/~esr/faqs/smart-questions.html][How To Ask Questions The Smart Way]] Eric Raymond
+
+
+#+begin_quote
+There are a lot of different ways in which a piece of code
+could “not work”.  And as a programmer, even if the solution
+is beyond your capabilities, the exact nature of the problem
+certainly shouldn’t be.  If you know enough to know that the
+code isn’t working, you should be able to at least explain
+to someone else what makes you draw that conclusion.
+
+This code does not work because…
+
+    - it does not compile.
+    - it encounters a run-time exception.
+    - it does not produce the correct results.
+    - it launches missiles.
+
+-- Nick Griffith | [[http://importblogkit.com/2015/07/does-not-work/][Does Not Work]]
+#+end_quote
+
+
+#+begin_quote
+people who ask "can I ask you a question?" - this doesn't
+have the same positive benefit as "hey, how's it going? how
+was your wknd?", it doesn't seem to serve any purpose. I
+typically ask people, nicely, to just ask the question
+directly next time and I'll answer when I'm able, if can't
+right away. Especially in a chat-type environment in a
+geographically/timezone-diverse team.
+
+-- mastre_ | [[https://news.ycombinator.com/item?id=13509640][Does Not Work]] | Comments on Hacker News
+#+end_quote
+
+
+** How to answer Questions
 
 
 ** Issue Reporting
@@ -175,12 +275,28 @@ make it trivial for anyone to spin up the container and run
 the code from the org document and play with it and
 hopefully contribute a solution.
 
-
-
 * Style
 
-  - emoticons -- text, not graphic or unicode
-  - acronyms (LOL, ROFL, IANAL, NSFW)
+  - always use english in communications -- even if it is
+    one-to-one, because it might be quoted...
+  - always define acronyms and abbreviations (LOL, ROFL,
+    IANAL, NSFW, TL;DR) the first time you use them, with
+    the exception of those listed in the team glossary --
+    don't include anything in the team glossary, and it's
+    still a good idea to link to the glossary definition.
+    Perhaps we can use a convention, like, any term that is
+    in the glossary should be marked as a orgmode =verbatim=
+    markup and we can programically generate links, or a
+    search of the glossary for the term.  This sounds like a
+    waste of time, but is important to help avoid semantic
+    rot over long periods of time and is very helpful when
+    sending quotes to non-technical people or people who are
+    outside the culture.
+  - use the past-tense when describing things, which makes
+    it easier to quote and integrate into other
+    communications and documents.
+  - emoticons -- always use text, not graphic or unicode,
+    and let's keep the number of 
 
 * Security, Transparency & Accountability
 
