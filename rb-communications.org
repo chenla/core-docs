@@ -142,6 +142,7 @@ desktop/laptop --> long form
 
 * Hacker Ethics
 :NOTE: will be split off into hb-culture.org
+:NOTE: part of what is split then may form the foundation for /scopism/ a scopic philosophy.
 :SEE: [[https://en.wikipedia.org/wiki/Hacker_ethic][Hacker ethic]] | Wikipedia
 :SEE: [[https://en.wikipedia.org/wiki/Hacker_culture][Hacker culture]] | Wikipedia
 
@@ -185,9 +186,27 @@ these had certain important traits in common:
   - You can create art and beauty on a computer.
   - Computers can change your life for the better.
 
+I believe that most of these traits and beliefs overlap with
+other fields as well, especially in the sciences -- if you
+combine the above with the scientific method, we have
+something that can bridge between development, research,
+philosophy and art.
+
+Go one step further and mix in the best of the Stoics,
+Epicurians and Process Philosophers and you have a very
+powerful personal philosophy which I will call /Scopism/ or
+Scopic Philosophy & Ethics.
+
+* Methodologies
+:NOTE: will be split off into hb-methodology.org
+
+
+ - Eric Raymond | The Cathedral and the Bazaar -- 1997
 
 
 * Etiquette
+:NOTE: will be split off into hb-etiquette.org
+
 
 The Git Lab manual is very proscriptive --  as it should be,
 but process and behavior are not always the same thing.
