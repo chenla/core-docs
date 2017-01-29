@@ -50,19 +50,8 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 
 
-* Shearing Model
+* Pace Layering Model
 
-#+begin_quote
-the future is already here, it's just not evenly
-distributed.
-
--- William Gibson
-#+end_quote
-
-People today don't understand shearing -- they think everything is
-happening at the same speed -- that everything is simultaneous --
-there is no separation of layers -- it's all a firehose that doesn't
-give you a chance to think about the next hour, let alone tomorrow.
 
   - real time         :: phone calls, voip
   - near real time    :: instant messaging & irc
@@ -85,7 +74,7 @@ persistent vs transient
     - filterable global :: twitter, registries, content-search
 
 
-- [[https://www.youtube.com/watch?v=BrWlAtfqF6s][ÐΞVcon-0-Whisper: the Multi DHT Messaging System with Routing Privacy. Vision & Roadmap. - YouTube]]
+:SEE: [[https://www.youtube.com/watch?v=BrWlAtfqF6s][Whisper]] | ÐΞVcon-0 YouTube
 
 * Interruptions
 
