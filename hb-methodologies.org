@@ -89,7 +89,6 @@ able to do this by email....
     standups, in person meetings, and video-conference
     code-reviews.
 
-
 * Agile
 * Scrum
 
