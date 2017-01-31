@@ -46,6 +46,18 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </ul>
 #+HTML: </div>
 
+* HEY!  
+
+We'll need to move all this meeting stuff into it's own set
+of files:
+
+  - hb-meetings.org
+    - create a meeting
+    - how to chair a meeting
+    - meetbot docs
+    
+Can this bot work in #Slack?
+
 * Introduction
 
 #+CAPTION [[https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Uttar_Pradesh_Apsara.jpg/160px-Uttar_Pradesh_Apsara.jpg][A 12th-century sandstone statue of an Apsara]] | Wikimedia
@@ -65,6 +77,18 @@ Scrum and Kanban which, if used
 
 A great deal of emphasis in Agile & Scrum is placed on the
 idea of /face to face meetings/.  
+
+----
+
+meetings are scheduled -- there should be a page for the
+schedule simular to the  [[http://eavesdrop.openstack.org/][OpenStack IRC meetings]] we should be
+able to do this by email....
+
+  - everything is logged and made logs linked to afterwards
+  - install meetbot! and use for all meetings including
+    standups, in person meetings, and video-conference
+    code-reviews.
+
 
 * Agile
 * Scrum
@@ -118,9 +142,6 @@ channel.
 
 
 
-
-
-
 Agendas have to be more formal than face-to-face meetings
 
 First decide what technologies to use -- don't use video
@@ -140,16 +161,19 @@ before the meeting.
 
 Standups work very well using IRC/Slack style chat.
 
-
-
 * User Stories
 * Kanban
 * Further Reading
 
 ** Standup Meetings
-- [[http://www.teamreporterapp.com/virtual-stand-up-meetings-with-best-practices-and-alternatives/][Virtual Stand-up Meetings for Distributed Teams]] | Teamreporter
-- [[http://eavesdrop.openstack.org/][OpenStack IRC meetings]] 
-- [[https://wiki.openstack.org/wiki/Meetings/ChairaMeeting][Meetings/ChairaMeeting]] | OpenStack
-- [[https://wiki.openstack.org/wiki/Meetings/CreateaMeeting][Meetings/CreateaMeeting]] | OpenStack
-- [[https://github.com/openstack-infra/meetbot][openstack-infra/meetbot]] | Github
-- [[https://github.com/Supybot/Supybot][Supybot/Supybot]] | Github
+ - [[http://www.teamreporterapp.com/virtual-stand-up-meetings-with-best-practices-and-alternatives/][Virtual Stand-up Meetings for Distributed Teams]] | Teamreporter
+ - [[http://eavesdrop.openstack.org/][OpenStack IRC meetings]] 
+ - [[https://wiki.openstack.org/wiki/Meetings/ChairaMeeting][Meetings/ChairaMeeting]] | OpenStack
+ - [[https://wiki.openstack.org/wiki/Meetings/CreateaMeeting][Meetings/CreateaMeeting]] | OpenStack
+ - [[https://github.com/openstack-infra/meetbot][openstack-infra/meetbot]] | Github
+ - [[https://github.com/Supybot/Supybot][Supybot/Supybot]] | Github
+ - [[https://wiki.openoffice.org/wiki/Community_Council/Meeting_Guidelines/Meeting_Guidelines_Development][Community Council/Meeting Guidelines/Meeting Guidelines
+  Development]] | Apache OpenOffice Wiki
+ - [[https://wiki.openoffice.org/wiki/Community_Council/Meeting_Guidelines][Community Council/Meeting Guidelines]] | Apache OpenOffice
+   Wiki 
+
