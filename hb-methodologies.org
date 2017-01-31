@@ -48,3 +48,107 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+#+CAPTION [[https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Uttar_Pradesh_Apsara.jpg/160px-Uttar_Pradesh_Apsara.jpg][A 12th-century sandstone statue of an Apsara]] | Wikimedia
+[[./img/method/321px-Uttar_Pradesh_Apsara.jpg]]
+
+It is said that every time /Agile/ an [[https://en.wikipedia.org/wiki/Apsara][Apsara]] sheds a tear.
+Since I am the last person to wish to diminish the mood of
+any Apasara (it is hard to be a temptress when one is sad) I
+will try to keep the damage to a minimum.
+
+Chenla & b>i do not proscribe /any/ development
+methodologies.  Every project is free to concoct the
+methodologies that they find work best.
+
+However, there are a lot of a good ideas in Agile,
+Scrum and Kanban which, if used 
+
+A great deal of emphasis in Agile & Scrum is placed on the
+idea of /face to face meetings/.  
+
+* Agile
+* Scrum
+
+** Standup Meeting Size
+
+Important to keep number of people no larger than 6-7. even
+virtually.
+
+** Standup Meetings for Distributed Teams
+
+When possible, do daily standups remotely, and Sprint
+Reviews in person or video video.
+
+#+begin_quote
+The only time I’ve seen a standup work successfully is when
+it wasn’t a standup at all but a status update posted via
+Slack. Now, there’s the same format and the same time
+constraint. You tell the team “at 9:45am (or whenever) you
+need to post your status update”. But it gives them
+flexibility. If they do some kind of personal productivity
+mechanism like GTD or Pomodoro, they can copy in notes from
+that system into the standup comment. They can keep notes
+from the previous day. Being at their computer means they
+can actually look at what is in front of them (Git commits,
+issue tracker updates etc.) to determine what they are
+working on, and they can link to those if they feel like it.
+
+It gives more flexibility for remote workers or even just
+people running a few minutes late for the office. Bus got
+stuck in traffic? You can still post your update on Slack.
+
+It gives more permanence. You can see what you posted
+yesterday and see whether the things you said you’d do
+yesterday were the things you actually did. This gives you
+more accountability. Also, having a clear log of what you
+did every day you worked helps when compiling timesheets, or
+invoices if you are a contractor.
+
+It prevents people from going off on pointless discussions
+about stuff that is of no relevance to the rest of the
+team. They can still discuss it, just not in the standup
+channel.
+
+-- [[https://tommorris.org/posts/9427][Standups: just use text (and maybe Slack)]]
+#+end_quote
+
+
+  - Everyone announce they are online
+  - if you have a question, type ? 
+
+
+
+
+
+
+Agendas have to be more formal than face-to-face meetings
+
+First decide what technologies to use -- don't use video
+conferencing unless it is rock solid for everyone in the
+meeting -- in our experience, most video conferencing
+meetings is spent in dealing with dropped connections,
+mis-configured software, low-bandwidth, crappy microphones
+and cameras etc, than is spent in the meeting itself.  Even
+plain old telephone calls often suffer from not being able
+to hear people.
+
+If and when you do use video, make sure everyone has a
+/good/ camera and headset.  There should be a cheat sheet
+for lighting, and test connections, lighting etc the day
+before the meeting.
+
+Standups work very well using IRC/Slack style chat.
+
+
+
+* User Stories
+* Kanban
+* Further Reading
+
+** Standup Meetings
+- [[http://www.teamreporterapp.com/virtual-stand-up-meetings-with-best-practices-and-alternatives/][Virtual Stand-up Meetings for Distributed Teams]] | Teamreporter
+- [[http://eavesdrop.openstack.org/][OpenStack IRC meetings]] 
+- [[https://wiki.openstack.org/wiki/Meetings/ChairaMeeting][Meetings/ChairaMeeting]] | OpenStack
+- [[https://wiki.openstack.org/wiki/Meetings/CreateaMeeting][Meetings/CreateaMeeting]] | OpenStack
+- [[https://github.com/openstack-infra/meetbot][openstack-infra/meetbot]] | Github
+- [[https://github.com/Supybot/Supybot][Supybot/Supybot]] | Github
