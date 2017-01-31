@@ -51,7 +51,7 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 We'll need to move all this meeting stuff into it's own set
 of files:
 
-  - hb-meetings.org
+  - [[./hb-meetings.org]]
     - create a meeting
     - how to chair a meeting
     - meetbot docs

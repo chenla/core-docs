@@ -63,7 +63,7 @@ githubchart -u deerpig ./img/contrib.svg
  - [[hb-style-guides.org][Style Guide Handbook]] 
  - [[./hb-workflow.org][Workflow Handbook]]
  - [[./hb-methodologies.org][Development Methodologies Handbook]]
-
+ - [[./hb-meetings.org][Meetings Handbook]] 
 * HOWTO
 
  - [[howto-video-conference.org][Video Conferencing HOWTO]]
