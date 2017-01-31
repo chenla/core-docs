@@ -133,7 +133,8 @@ plain old telephone calls often suffer from not being able
 to hear people.
 
 If and when you do use video, make sure everyone has a
-/good/ camera and headset.  There should be a cheat sheet
+/good/ camera and headset.  There should be a
+[[./howto--video-conference.org]] Video Conference HOWTO
 for lighting, and test connections, lighting etc the day
 before the meeting.
 

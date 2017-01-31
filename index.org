@@ -64,6 +64,12 @@ githubchart -u deerpig ./img/contrib.svg
  - [[./hb-workflow.org][Workflow Handbook]]
  - [[./hb-methodologies.org][Development Methodologies Handbook]]
 
+* HOWTO
+
+ - [[howto-video-conference.org][Video Conferencing HOWTO]]
+ - Screencasting HOWTO
+ - Podcast HOWTO
+
 * Code of Conduct
 
  - [[./coc-contributor-covenant.org][Contributor Covenant]]
