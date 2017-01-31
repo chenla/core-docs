@@ -66,5 +66,5 @@ githubchart -u deerpig ./img/contrib.svg
 
 * Code of Conduct
 
- - [[./contributor-covenant.org][Contributor Covenant]]
+ - [[./coc-contributor-covenant.org][Contributor Covenant]]
 

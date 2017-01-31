@@ -31,7 +31,7 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: <ul>
 
 #+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
-  RES=YASESCAPE96PROTECTGUARDgit log $TAG...HEAD --pretty="<li>%s</li>\n" -- YYYASESCAPE96PROTECTGUARD
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- coc-contributor-covenant.org'
   if [ -z $RES ]; then
     RES="<li>no changes</li>"
   fi
