@@ -102,5 +102,11 @@ highest to lowest priority.
 With all stories that fit within a milestone release listed
 together.
 
+Kanban (task boards), which are simular to but not the same as
+storyboards.  Kanban shows the features/stories that are
+being worked on in a given sprint -- whereas story maps
+focus on what features/stories will be included in each
+stage of development.
+
 * Kanban
 * Further Reading
