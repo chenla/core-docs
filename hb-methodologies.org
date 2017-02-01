@@ -52,29 +52,51 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+CAPTION [[https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Uttar_Pradesh_Apsara.jpg/160px-Uttar_Pradesh_Apsara.jpg][A 12th-century sandstone statue of an Apsara]] | Wikimedia
 [[./img/method/321px-Uttar_Pradesh_Apsara.jpg]]
 
-It is said that every time /Agile/ an [[https://en.wikipedia.org/wiki/Apsara][Apsara]] sheds a tear.
-Since I am the last person to wish to diminish the mood of
-any Apasara (it is hard to be a temptress when one is sad) I
-will try to keep the damage to a minimum.
+It is said that every time the term /Agile/ is spoken aloud,
+an [[https://en.wikipedia.org/wiki/Apsara][Apsara]] sheds a tear.  Since I am the last person to wish
+to diminish the mental state of any Apasara (it is hard to
+be a temptress when one is sad) I will try to keep the
+damage to a minimum.
 
 Chenla & b>i do not proscribe /any/ development
 methodologies.  Every project is free to concoct the
 methodologies that they find work best.
 
 However, there are a lot of a good ideas in Agile,
-Scrum and Kanban which, if used 
+Scrum and Kanban which, if used judiciously, can be very
+helpful to development teams.
 
-A great deal of emphasis in Agile & Scrum is placed on the
-idea of /face to face meetings/.  
+This document is meant to cherry pick the collection of
+methodologies and strategies that we will be testing in
+development projects.  Some things will work, others won't.
 
+Over time this document will detail what works for us and
+why, what what didn't work for us and what to avoid.
+
+It should be kept in mind that many Agile and Scrum
+practices are based on the assumption that teams are
+physically located in the same place.
+
+Successful companies who are distributed and remote, tend to
+use some Agile practices, but are not religious about it.
+
+This document is very much a work in progress!
 
 * Agile
 * Scrum
 
-** Standup Meeting Size
+** Sprints
+** Standup Meetings
+
+A great deal of emphasis in Agile & Scrum is placed on the
+idea of /face to face meetings/.  
+
+*** Standup Meeting Size
 
 Important to keep number of people no larger than 6-7. even
 virtually.
+
+** Sprint Reviews
 
 
 * User Stories
