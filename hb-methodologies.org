@@ -55,8 +55,8 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 It is said that every time the term /Agile/ is spoken aloud,
 an [[https://en.wikipedia.org/wiki/Apsara][Apsara]] sheds a tear.  Since I am the last person to wish
 to diminish the mental state of any Apasara (it is hard to
-be a temptress when one is sad) I will try to keep the
-damage to a minimum.
+be a temptress of holy men when one is sad) I will try to
+keep the damage to a minimum.
 
 Chenla & b>i do not proscribe /any/ development
 methodologies.  Every project is free to concoct the
@@ -80,12 +80,104 @@ physically located in the same place.
 Successful companies who are distributed and remote, tend to
 use some Agile practices, but are not religious about it.
 
-This document is very much a work in progress!
+#+begin_quote
+Scrum’s roles, artifacts, events, and rules are immutable
+and although implementing only parts of Scrum is possible,
+the result is not Scrum. 
+
+--- See more at: [[https://www.scrumalliance.org/why-scrum/scrum-guide#sthash.MljgvADk.dpuf][Scrum Guide]]
+#+end_quote
+
+In otherwords, you can only call it /Scrum/ once you've
+drunk the Cool Aide.
+
+Second -- we will work to adapt these into our development
+workflow and toolchain, using orgmode, otium and BMF.  It
+should be interesting to see how these ideas can be adapted
+to /generative design/ and the concept of /scopic pace
+layers/.
+
+Many of the concepts in Agile and Scrum were inspired by the
+work of Christpher Alexander.  We believe that Scrum and
+Agile only address one aspect of what Alexander was trying
+to get people to understand and implement -- by dealing with
+process, but doesn't address the deeper concepts behind his
+vision.  I hope that we will eventually be able to expand on
+the excellent concepts in Agile and Scrum to encompass a
+broader concept of project development.
+
+*Needless to say this document is very much a work in progress!*
 
 * Agile
 * Scrum
 
+
+:SEE: [[https://www.scrumalliance.org/why-scrum/scrum-guide][The Scrum Guide]] | Scrum Alliance
+
+** Development Team
+
+- Self Organizing
+- Cross-Functional
+- No titles other than /Developer/
+- No sub-teams
+- Accountability belongs to the team as a whole.
+
+** Team Size
+
+:TL;DR: 3-9 people
+
+Longer answer:
+
+#+begin_quote
+Optimal Development Team size is small enough to remain
+nimble and large enough to complete significant work within
+a Sprint. Fewer than three Development Team members decrease
+interaction and results in smaller productivity
+gains. Smaller Development Teams may encounter skill
+constraints during the Sprint, causing the Development Team
+to be unable to deliver a potentially releasable
+Increment. Having more than nine members requires too much
+coordination. Large Development Teams generate too much
+complexity for an empirical process to manage. The Product
+Owner and Scrum Master roles are not included in this count
+unless they are also executing the work of the Sprint
+Backlog.
+ 
+-- See more at: [[https://www.scrumalliance.org/why-scrum/scrum-guide#sthash.MljgvADk.dpuf][Scrum Guide]]
+#+end_quote
+
+This actually fits /group size patterns/ -- [ link to
+magic-number patterns and topics ]
+
+** Roles
+*** Developer
+
+Everyone is a developer in a scrum team, there are not
+titles (though there are two specialized /roles/).
+Different developers may have a different specialty but
+there is no hierarchy within the team.
+
+*** The Scrum Master
+
+"The scrum master is a servant-leader for the Scrum Team" --
+you can't make this shit up....
+
+The Scrum Master is a silly name for the person responsible
+for keeping the team within the scrum methodology and
+workflow -- keeping the process on track.
+
+*** The Product Owner
+
+Is a Janian (from Janus the two-faced Roman god) Role who
+acts as a go-between for stakeholders and the developers.
+She is responsible for communicating wishes from on high,
+down to the team who implement them, but the Product Owner
+also has authority to express the goals set out by
+stakeholders as she sees fit.
+
+** Backlog
 ** Sprints
+** Sprint Planning
 ** Standup Meetings
 
 A great deal of emphasis in Agile & Scrum is placed on the
@@ -97,7 +189,8 @@ Important to keep number of people no larger than 6-7. even
 virtually.
 
 ** Sprint Reviews
-
+** Sprint Restrospective
+** Definition of Done
 
 * User Stories
 
@@ -105,7 +198,7 @@ virtually.
    with some CSS to create a page for user stories for each
    project.
 
-**  Task Boards & Story Maps  
+**  Story Maps  
 
 Storymaps help to visualize the backlog in context with how
 each story fits into the broader development picture.  It
