@@ -83,11 +83,24 @@ virtually.
    with some CSS to create a page for user stories for each
    project.
 
--  Task Boards & Story Maps  
+**  Task Boards & Story Maps  
+
+Storymaps help to visualize the backlog in context with how
+each story fits into the broader development picture.  It
+helps you see the big picture forest and where all the trees
+are within the forest.
 
 #+CAPTION: Story Maps (placeholder image)
 [[./img/method/story-maps.png]]
 
+#+CAPTION: Story Map (from Head First Agile)
+[[./img/method/story-maps-2.png]]
+
+Story maps are organzied Stories in priority order from
+highest to lowest priority.
+
+With all stories that fit within a milestone release listed
+together.
 
 * Kanban
 * Further Reading
