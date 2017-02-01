@@ -78,5 +78,16 @@ virtually.
 
 
 * User Stories
+
+ - Let's use orgfile templates for User Stories together
+   with some CSS to create a page for user stories for each
+   project.
+
+-  Task Boards & Story Maps  
+
+#+CAPTION: Story Maps (placeholder image)
+[[./img/method/story-maps.png]]
+
+
 * Kanban
 * Further Reading
