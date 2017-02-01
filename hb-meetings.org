@@ -50,6 +50,14 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 Move material from hb-methodologies to here.....\
 
+** Firefox IRC Standup Workflow
+
+- [[https://wiki.mozilla.org/Standup][Standup]] | MozillaWiki
+- [[https://github.com/mozilla/standup][mozilla/standup]] | Github
+- [[https://github.com/mozilla/standup-irc][mozilla/standup-irc: Daily status IRC bot]] | Github
+- [[https://wiki.mozilla.org/IRC][IRC]] | MozillaWiki]
+
+How does this compare with Meetbot?
 
 * Notes 
 
