@@ -261,17 +261,15 @@ converts video into gifs.
 
 *** Install FFCast, FFmpeg and Gifify
 
-On Debian, add tje deb-multimedia.org repo
+On Debian, add the deb-multimedia.org repo
 
 #+begin_src su :dir /sudo::
 sudo echo deb http://www.deb-multimedia.org testing main non-free \
                   >>/etc/apt/sources.list
 
+or perhaps we can do this?
 
-or
-
-add-apt-repository ppa:jon-severinsson/ffmpeg
-
+   add-apt-repository ppa:jon-severinsson/ffmpeg
 #+end_src
 
 #+begin_src sh :dir /sudo::
