@@ -67,6 +67,7 @@ githubchart -u deerpig ./img/contrib.svg
 * HOWTO
 
  - [[howto-video-conference.org][Video Conferencing HOWTO]]
+ - [[howto-creating-gifs.org][Creating Animated Gifs]]
  - Screencasting HOWTO
  - Podcast HOWTO
 

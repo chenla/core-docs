@@ -1,9 +1,9 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Creating Anitmated Gifs
+#+TITLE: HOWTO Creatr Anitmated Gifs
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/docs/hb-create-gifs.org
+  :Name: /home/deerpig/proj/chenla/docs/howto-create-gifs.org
   :Created: 2017-02-06T19:09@Prek Leap (11.642600N-104.919210W)
   :ID: a70e303e-5d11-4829-9aaf-9e459372f834
   :URL:
