@@ -48,3 +48,89 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+* Making Gifs
+
+Animated Gifs are a powerful tool for use in blog posts,
+tutorials, slide decks (when used sparingly) and even sprint
+reviews.  This section includes everything needed to produce
+animated gifs.
+
+Animated Gifs can quickly become very large files to
+paraphrase Benjiman Franklin's key to living a long life:
+
+#+begin_verse
+  Never use a video when an animated gif can be used.
+  Never show a whole screen if a single window can be used.
+  Never show a single window when a portion of a window can be used.
+  Never show a portion of a window if a non-animated image can be used.
+#+end_verse
+
+** Process
+
+*** Step 1
+
+Start by recording a video file that records your screen.
+
+There are tools that can do this for MacOS and Windows, but
+since we are a Linux shop, it's best to use FFCast + FFmpeg.
+
+[[https://github.com/lolilolicon/FFcast][FFCast]] is a wrapper for ffmpeg that captures and records
+regions of screens.  FFcast can be piped into [[https://github.com/vvo/gifify][Gifify]] which
+converts video into gifs.
+
+ - [[http://unix.stackexchange.com/questions/113695/gif-screencasting-the-unix-way][video - GIF screencasting; the UNIX way]] | Unix & Linux Stack Exchange]
+ - [[http://www.function.fr/creating-optimized-animated-gif-screencasts-on-osx-or-linux/][Create optimized GIF screencasts on Linux and OSX]]
+
+*** Install FFCast, FFmpeg and Gifify
+
+On Debian, add the deb-multimedia.org repo
+
+#+begin_src su :dir /sudo::
+sudo echo deb http://www.deb-multimedia.org testing main non-free \
+                  >>/etc/apt/sources.list
+
+or perhaps we can do this?
+
+   add-apt-repository ppa:jon-severinsson/ffmpeg
+#+end_src
+
+#+begin_src sh :dir /sudo::
+sudo apt-get -y update
+sudo apt-get install -y deb-multimedia-keyring
+#+end_src
+
+#+RESULTS:
+
+#+begin_src sh :dir /sudo::
+sudo apt-get install -y ffmpeg
+#+end_src
+
+
+Download build and install FFcast
+
+[[http://superuser.com/questions/849193/compiling-ffcast-for-ubuntu-14-04-libx11-is-required][ffmpeg - Compiling FFcast for Ubuntu 14.04, "libx11 is required"?]] Super User
+
+#+begin_src sh
+sudo apt-get install autoconf automake build-essential checkinstall git libx11-dev x11-utils
+git clone --recursive https://github.com/lolilolicon/FFcast.git
+cd FFcast
+./bootstrap
+./configure --prefix=/usr/local --enable-xrectsel
+make
+sudo checkinstall --pkgname ffcast --pkgversion "1:2.4.1+git$(git rev-parse --short HEAD)" --fstrans=no --default
+#+end_src
+
+Install Gifify
+
+  - can't figure out how to install gifify on debian :(
+
+Create a file in /usr/local/bin/ named e.g. gifcast (and chmod 755 it) :
+
+#+begin_src sh
+#!/bin/bash
+TMP_AVI=$(mktemp /tmp/outXXXXXXXXXX.avi)
+ffcast -s % ffmpeg -y -f x11grab -show_region 1 -framerate 15 \
+    -video_size %s -i %D+%c -codec:v huffyuv                  \
+    -vf crop="iw-mod(iw\\,2):ih-mod(ih\\,2)" $TMP_AVI         \
+&& convert -set delay 10 -layers Optimize $TMP_AVI out.gif
+#+end_src
