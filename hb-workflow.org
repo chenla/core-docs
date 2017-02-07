@@ -1,14 +1,60 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Workflow Handbook
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/docs/hb-workflow.org
+  :Created: 2017-02-07T16:53@Prek Leap (11.642600N-104.919210W)
+  :ID: 7263a62c-5dde-4fac-acb0-b20ee27b19e4
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
 
 
 
 * Agile Manifesto
-
  - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
  -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
 
-
 * Remote Manifesto
-
  - [[https://about.gitlab.com/2015/04/08/the-remote-manifesto/][The Remote Manifesto]] | GitLab
  - [[https://www.pandastrike.com/posts/20150304-agile][Flaws In Scrum And Agile]] | Panda Strike
  - [[bib:fried:2013remote][Remote: Office Not Required]] | Crown Business
