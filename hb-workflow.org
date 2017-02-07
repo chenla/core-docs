@@ -46,6 +46,9 @@ digraph h {
 
 [[./img/chicken-vs-pig.png]]
 
+image source:
+  - [[https://agile-setchu.org/2015/09/29/we-are-not-chickens-nor-are-we-pigs/][We are not chickens, nor are we pigs!]] | Agile at Scale]
+
 #+begin_quote
 A Pig and a Chicken are walking down the road.
 
