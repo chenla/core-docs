@@ -121,8 +121,6 @@ channel.
   - Everyone announce they are online
   - if you have a question, type ? 
 
-
-
 Agendas have to be more formal than face-to-face meetings
 
 First decide what technologies to use -- don't use video
@@ -143,6 +141,16 @@ before the meeting.
 Standups work very well using IRC/Slack style chat.
 
 
+* Example Meetbot IRC meeting
+
+Here is a randomly chosen example of Meetbot's output and
+a log of a meeting from the Debian project.
+
+  - [[http://meetbot.debian.net/debian-edu/2010/debian-edu.2010-01-11-19.01.html][#debian-edu Meeting]]
+  - [[http://meetbot.debian.net/debian-edu/2010/debian-edu.2010-01-11-19.01.log.html][#debian-edu log]]
+
+
+
 * Further Reading
 
 ** Standup Meetings
@@ -150,9 +158,12 @@ Standups work very well using IRC/Slack style chat.
  - [[http://eavesdrop.openstack.org/][OpenStack IRC meetings]] 
  - [[https://wiki.openstack.org/wiki/Meetings/ChairaMeeting][Meetings/ChairaMeeting]] | OpenStack
  - [[https://wiki.openstack.org/wiki/Meetings/CreateaMeeting][Meetings/CreateaMeeting]] | OpenStack
+ - [[https://wiki.openoffice.org/wiki/Community_Council/Meeting_Guidelines/Meeting_Guidelines_Development][Meeting Guidelines Development]] | Apache OpenOffice Wiki
+ - [[https://wiki.openoffice.org/wiki/Community_Council/Meeting_Guidelines][Meeting Guidelines]] | Apache OpenOffice Wiki 
+ - [[https://meta.wikimedia.org/wiki/IRC_office_hours/Guidelines][IRC office hours/Guidelines]] | Wikipedia Meta
+ - [[https://meta.wikimedia.org/wiki/IRC/Instructions][IRC/Instructions]] | Wikipedia Meta
+
+** IRC Meeting Bots
+ - [[https://wiki.debian.org/MeetBot][MeetBot]] | Debian Wiki
  - [[https://github.com/openstack-infra/meetbot][openstack-infra/meetbot]] | Github
  - [[https://github.com/Supybot/Supybot][Supybot/Supybot]] | Github
- - [[https://wiki.openoffice.org/wiki/Community_Council/Meeting_Guidelines/Meeting_Guidelines_Development][Community Council/Meeting Guidelines/Meeting Guidelines
-  Development]] | Apache OpenOffice Wiki
- - [[https://wiki.openoffice.org/wiki/Community_Council/Meeting_Guidelines][Community Council/Meeting Guidelines]] | Apache OpenOffice
-   Wiki 
