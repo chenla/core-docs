@@ -13,7 +13,7 @@
  - [[https://www.pandastrike.com/posts/20150304-agile][Flaws In Scrum And Agile]] | Panda Strike
  - [[bib:fried:2013remote][Remote: Office Not Required]] | Crown Business
  - [[bib:fried:2010rework][Rework]] | Crown Business
- - [[bib:burkun:2013pants][The without pants: WordPress.com and the future of work]] | Jossey-Bass
+ - [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of work]] | Jossey-Bass
 
 * Scrum Values
 
