@@ -3,7 +3,6 @@
 
 * Agile Manifesto
 * Remote Manifesto
-
 * The Waterfall
 
 #+BEGIN_SRC dot :file img/waterfall.png :noweb yes :exports results
@@ -44,6 +43,8 @@ digraph h {
 
 /Learning Agile/ Andrew Stellman & Jennifer Greene
 2015 O'Reilly Media
+
+[[./img/chicken-vs-pig.png]]
 
 #+begin_quote
 A Pig and a Chicken are walking down the road.
