@@ -2,7 +2,30 @@
 
 
 * Agile Manifesto
+
+ - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
+ -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
+
+
 * Remote Manifesto
+
+ - [[https://about.gitlab.com/2015/04/08/the-remote-manifesto/][The Remote Manifesto]] | GitLab
+ - [[https://www.pandastrike.com/posts/20150304-agile][Flaws In Scrum And Agile]] | Panda Strike
+ - [[bib:fried:2013remote][Remote: Office Not Required]] | Crown Business
+ - [[bib:fried:2010rework][Rework]] | Crown Business
+ - [[bib:burkun:2013pants][The without pants: WordPress.com and the future of work]] | Jossey-Bass
+
+* Scrum Values
+
+ - Focus
+ - Courage
+ - Openness
+ - Commitment
+ - Respect
+
+[[https://www.scrumalliance.org/why-scrum/core-scrum-values-roles][Scrum Values | Scrum Principles]] | Scrum Alliance
+
+
 * The Waterfall
 
 #+BEGIN_SRC dot :file img/waterfall.png :noweb yes :exports results
@@ -39,10 +62,12 @@ digraph h {
 ** Normative References
 :url: https://en.wikipedia.org/wiki/Waterfall_model
 
-* The Chicken and the Pig
 
-/Learning Agile/ Andrew Stellman & Jennifer Greene
-2015 O'Reilly Media
+
+
+
+
+* The Chicken and the Pig
 
 [[./img/chicken-vs-pig.png]]
 
@@ -70,6 +95,9 @@ the case, it’s actually a problem with the team’s mindset, and it will
 interfere with sustainable pace.
 
  -- p97
+
+/Learning Agile/ Andrew Stellman & Jennifer Greene
+2015 O'Reilly Media
 #+end_quote
 
 * Iterative vs Incremental
