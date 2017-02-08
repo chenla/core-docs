@@ -90,6 +90,60 @@ would look quite different.
 -- [[http://gnus.org/manual/gnus_135.html#On-Writing-Manuals][Gnus Manual: 11.3 On Writing Manuals]]
 #+end_quote
 
+* Workflow at Automattic
+
+#+begin_quote
+The general work flow at Automattic had seven steps:
+
+  1. Pick a problem. A basic problem or idea for
+     WordPress.com is chosen. It could be something like,
+     “It's too hard to print blog posts,” or, “Let users
+     share from WordPress to Facebook.” There are always
+     hundreds of ideas and dozens of opinions about which
+     ideas are important. There's no formal system for
+     deciding, but many came from Mullenweg or as
+     suggestions from the Happiness folks. After an idea is
+     chosen, discussion begins on how it should work.
+  2. Write a launch announcement and a support page. Most
+     features are announced to the world after they go live
+     on WordPress.com. But long before launch, a draft
+     launch announcement is written. This sounds
+     strange. How can you write an announcement for
+     something that doesn't exist? The point is that if you
+     can't imagine a compellingly simple explanation for
+     customers, then you don't really understand why the
+     feature is worth building. Writing the announcement
+     first is a forcing function. You're forced to question
+     if your idea is more exciting for you as the maker than
+     it will be for your customer. If it is, rethink the
+     idea or pick a different one.
+  3. Consider what data will tell you it works. Since it's a
+     live service, learn from what users are doing. The plan
+     for a new feature must consider how its positive or
+     negative impact on customers can be measured. For
+     example, if the goal is to improve the number of
+     comments bloggers get from readers, we'd track how many
+     comments visitors write each day before and after the
+     change.
+  4. Get to work. Designers design. Programmers
+     program. Periodically someone checks the launch
+     announcement to remind everyone of the goal. As more is
+     learned about what's possible, the announcement becomes
+     more precise. Sometimes the feature pivots into
+     something different and better.
+  5. Launch. When the goal of the work has been met, the
+     feature launches. It's often smaller in scope than the
+     initial idea, but that's seen as a good thing. The code
+     goes live, and there is much rejoicing.
+  6. Learn. Data is captured instantly and discussed, often
+     hourly, by the folks who did the work. Bugs are found
+     and fixed. For larger features, several rounds of
+     revisions are made to the design.
+  7. Repeat.
+
+-- The Year Without Pants | Chap 6.
+#+end_quote
+
 
 * Scrum Values
 
