@@ -50,6 +50,29 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 
 
+* Management Model
+
+#+begin_quote
+Schneider had specific ideas about how to make a great
+company culture, ideas that Mullenweg shared. One major
+mistake Schneider had seen was how companies confused
+supporting roles, like legal, human resources, and
+information technology, with product creation roles like
+design and development. Product creators are the true talent
+of any corporation, especially one claiming to bet on
+innovation. The other roles don't create products and should
+be there to serve those who do. A classic betrayal of this
+idea is when the IT department dictates to creatives what
+equipment they can use. If one group has to be inefficient,
+it should be the support group, not the creatives. If the
+supporting roles, including management, dominate, the
+quality of products can only suffer.
+
+-- [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of
+   work]] | Scott Berkun 2013  Chap4
+#+end_quote
+
+
 * Agile Manifesto
  - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
  -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
