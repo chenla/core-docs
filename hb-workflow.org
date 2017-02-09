@@ -51,7 +51,13 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 Company Handbooks
 
  - [[http://www.nasdaq.com/article/6-inspiring-employee-handbook-examples-cm459464][6 Inspiring Employee Handbook Examples]] | Nasdaq
- - Valve: Handbook F
+ - Valve: Handbook For New Employees (pdf) | 2012
+ - [[https://about.gitlab.com/handbook/][Team Handbook]] | GitLab
+
+
+Zappos is well known for placing tremendous emphasis on
+cultural fit (so much so that they offer you $3,000 to leave
+after the first week).
 
 
 * Management Model
