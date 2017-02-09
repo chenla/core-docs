@@ -48,6 +48,10 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+Company Handbooks
+
+ - [[http://www.nasdaq.com/article/6-inspiring-employee-handbook-examples-cm459464][6 Inspiring Employee Handbook Examples]] | Nasdaq
+ - Valve: Handbook F
 
 
 * Management Model
@@ -144,10 +148,13 @@ style on the project was the mushroom theory. That is, `Keep
 them in the dark and feed them shit'.
 
 [[https://www.amazon.com/gp/customer-reviews/R1BO4KHY622PQP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0316491977][A true journalistic classic. Buy it and Read it!]]
-
 -- Comment on Amazon Books 
 #+end_quote
 
+
+* T-Shaped People
+
+[[./img/t-shaped-people.jpg]]
 
 
 * Agile Manifesto
