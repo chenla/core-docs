@@ -108,6 +108,29 @@ people who know best what they need to do great work.
 #+end_quote
 
 
+#+begin_quote
+There was, it appeared, a mysterious rite of initiation
+through which, in one way or another, almost every member of
+the team passed. The term that the old hands used for this
+rite — West invented the term, not the practice — was
+"signing up." By signing up for the project you agreed to do
+whatever was necessary for success. You agreed to forsake,
+if necessary, family, hobbies, and friends — if you had any
+of these left (and you might not if you had signed up too
+many times before). From a manager's point of view, the
+practical virtues of the ritual were manifold. Labor was no
+longer coerced. Labor volunteered. When you signed up you in
+effect declared, "I want to do this job and I'll give it my
+heart and soul." It cut another way. The vice president of
+engineering, Carl Carman, who knew the term, said much later
+on: "Sometimes I worry that I pushed too hard. I tried not
+to push any harder than I would on myself. That's why, by
+the way, you have to go through the sign-up. To be sure
+you're not conning anybody."
+
+-- [[bib:kidder:2011soul][The Soul of a New Machine]] | Tracy Kidder
+#+end_quote
+
 * Agile Manifesto
  - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
  -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
