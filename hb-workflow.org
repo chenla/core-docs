@@ -69,7 +69,42 @@ supporting roles, including management, dominate, the
 quality of products can only suffer.
 
 -- [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of
-   work]] | Scott Berkun 2013  Chap4
+   work]] | Scott Berkun 2013  Ch4
+#+end_quote
+
+
+#+begin_quote
+The volunteer culture Automattic inherited from WordPress,
+where contributors were under no obligation to participate,
+defined a landscape that granted wide autonomy to
+employees. Schneider and Mullenweg went to great lengths to
+keep support roles, like legal, human resources, and even
+IT, from infringing on the autonomy of creative roles like
+engineering and design. The most striking expression of this
+is that management is seen as a support role. The company
+stays as flat as possible for this reason. Schneider
+described his philosophy in this way:
+
+  1. Hire great people.
+  2. Set good priorities.
+  3. Remove distractions.
+  4. Stay out of the way.
+
+These freedoms at Automattic reminded me that the hardest
+part of work is what goes on between your ears and between
+you and your coworkers. The trends and gadgets that make up
+most conversations about the future of work miss the
+point. Instead of vice presidents seeing the problem as a
+lack of a tool or a secret method, they should realize
+they're in the way more than they realize. Granting
+authority is more powerful than any software, device, or
+method. Instead of treating employees like children, which
+many executive staffs do, Schneider and Mullenweg explicitly
+desired an environment for autonomous adults—a place for
+people who know best what they need to do great work.
+
+-- [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of
+   work]] | Scott Berkun 2013  Ch8
 #+end_quote
 
 
