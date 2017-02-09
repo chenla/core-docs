@@ -131,6 +131,25 @@ you're not conning anybody."
 -- [[bib:kidder:2011soul][The Soul of a New Machine]] | Tracy Kidder
 #+end_quote
 
+#+begin_quote
+That does not detract from the fact that this is still a
+terrific story. I have read it several times and still quote
+from it after nearly thirty years of reading from it the
+first time. My favorite image is of the engineer who quit
+the project to become a farmer, so that the smallest unit of
+time he had to deal with was the season. My second favorite
+quote (which may not be original to this book, although this
+is the first time I ran into it) is that the management
+style on the project was the mushroom theory. That is, `Keep
+them in the dark and feed them shit'.
+
+[[https://www.amazon.com/gp/customer-reviews/R1BO4KHY622PQP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0316491977][A true journalistic classic. Buy it and Read it!]]
+
+-- Comment on Amazon Books 
+#+end_quote
+
+
+
 * Agile Manifesto
  - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
  -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
