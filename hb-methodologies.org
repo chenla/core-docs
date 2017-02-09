@@ -62,6 +62,31 @@ Chenla & b>i do not proscribe /any/ development
 methodologies.  Every project is free to concoct the
 methodologies that they find work best.
 
+
+#+begin_quote
+An excellent example of staying out of the way is that when
+teams were formed at Automattic, a major question was how
+they should collaborate. At first everyone stayed with P2s,
+IRC, and Skype purely out of inertia, but soon teams, on
+their own, tried new things. One team switched to Skype
+video. Another tried Google Hangouts. There was no official
+mandate or policy. Each employee, and each team, decided
+which tools to try and which to keep. The tools were never
+of primary importance, although Toni and Matt made clear we
+had their support to buy the ones we needed and try them
+out. But what always mattered most was went on in each
+employee's mind. We were trusted to figure out which tools
+supported our work styles individually and as teams. There
+was never a mandate not to use e-mail. People simply found
+that the combination of P2s and IRC solved most needs, so
+that's what they used. Had a team wanted to try being
+e-mail-centric, it could have.
+
+-- [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of
+   work]] | Scott Berkun 2013  Ch8
+#+end_quote
+
+
 However, there are a lot of a good ideas in Agile,
 Scrum and Kanban which, if used judiciously, can be very
 helpful to development teams.
