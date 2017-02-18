@@ -149,6 +149,26 @@ a log of a meeting from the Debian project.
   - [[http://meetbot.debian.net/debian-edu/2010/debian-edu.2010-01-11-19.01.html][#debian-edu Meeting]]
   - [[http://meetbot.debian.net/debian-edu/2010/debian-edu.2010-01-11-19.01.log.html][#debian-edu log]]
 
+#+begin_quote
+A free and open source software project will have a
+dedicated IRC channel where the project members will meet to
+have discussions. Meetings can be scheduled, and can happen
+in different time zones depending on where the users are
+located. There is a protocol and etiquette to be followed
+during such meetings. The speaker or moderator should not be
+interrupted during the session.
+
+If you wish to ask a question, type ’?’ and wait. When the
+speaker has finished and feels that you can type in your
+text, you will be asked to do so. After you have finished
+typing your content, end with ‘EOF’. Similarly, if you need
+to speak during the session, type ’!’, and wait. You can
+give your consent or dissent to statements made in the
+channel using +1 or -1, respectively.
+
+-- [[http://www.shakthimaan.com/posts/2016/06/23/rcirc/news.html][Shakthimaan's Blog | GNU Emacs - rcirc IRC client]]
+#+end_quote
+
 
 
 * Further Reading
