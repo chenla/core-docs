@@ -168,6 +168,11 @@ them in the dark and feed them shit'.
  -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
 
 * Remote Manifesto
+
+ - [[http://blog.ninlabs.com/2013/01/programmer-interrupted/][Programmer Interrupted]] | ninlabs research
+ - [[https://hbr.org/2013/11/i-wasnt-hiding-from-you-boss-i-was-just-being-productive][I Wasn’t Hiding From You, Boss. I Was Just Being Productive.]]
+ - [[https://techbeacon.com/remote-vs-office-software-teams-which-better][Remote vs. in-office software teams: Which is better?]] | TechBeacon
+
  - [[https://about.gitlab.com/2015/04/08/the-remote-manifesto/][The Remote Manifesto]] | GitLab
  - [[https://www.pandastrike.com/posts/20150304-agile][Flaws In Scrum And Agile]] | Panda Strike
  - [[bib:fried:2013remote][Remote: Office Not Required]] | Crown Business
