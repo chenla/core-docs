@@ -160,6 +160,7 @@ them in the dark and feed them shit'.
 
 * T-Shaped People
 
+#+ATTR_ORG: width="300px"
 [[./img/t-shaped-people.jpg]]
 
 
@@ -317,6 +318,7 @@ digraph h {
 
 * The Chicken and the Pig
 
+#+ATTR_ORG: width="400px"
 [[./img/chicken-vs-pig.png]]
 
 image source:
@@ -471,6 +473,7 @@ displays.
 
 Colors *SHOULD* always be used to convey semantic, contextual meaning.
 
+#+ATTR_ORG: width="300px"
 [[./img/bootstrap-colors.jpg]]
 
 #+begin_src html
