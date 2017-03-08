@@ -248,7 +248,11 @@ are any number of times when it feels hopeless.  But once
 you've done it once you /know/ not only it can  be done but
 that it can be done by you.
 
-
+In evolutionary terms -- I shaped people are overly
+specialized for a very specific ecological niche, which
+means that they are vulnerable to environmental changes that
+eliminate the conditions that they evolved to exploit.  The
+more specialized you are the more vulnerable you are to change.
 
 * Agile Manifesto
  - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
