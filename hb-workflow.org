@@ -167,12 +167,31 @@ them in the dark and feed them shit'.
 #+ATTR_ORG: width="300px"
 [[./img/t-shaped-people.jpg]]
 
-The Valve Company handbook mentions that they want to hire
+The Valve Company handbook mentions that they prefer to hire
 "t-shaped" people; people who have deep knowledge and
 expertise in a few subjects, and basic knowledge and
 experience in many areas.
 
-The term was coined by IDEO's Tim Brown:
+#+begin_quote
+We calue "T-Shaped" people.  That is, people who are both
+generalists (highly skilled at a broad set of valuable
+things -- the top of the T) and also experts (among the best
+in their field within a narrow discipline -- the vertical
+leg of the T).
+
+This recipe is important for success at Valve.  We often
+have to pass on people who are very strong generalists
+without expertise or vice versa.  An expert who is too
+narrow has difficulty collaborating.  A generalist who
+doesn't go deep enough in a single area end up on the
+margins, not really contributing as an indvidual.
+
+-- Valve: Handbook For New Employees pg 46 | Valve Press 2012
+#+end_quote
+
+
+
+The term was coined by IDEO's CEO Tim Brown:
 
 #+begin_quote
 T-shaped people have two kinds of characteristics, hence the
@@ -185,7 +204,7 @@ mechanical engineer. The horizontal stroke of the “T” is the
 disposition for collaboration across disciplines. It is
 composed of two things. First, empathy. It’s important
 because it allows people to imagine the problem from another
-perspective- to stand in somebody else’s shoes. Second, they
+perspective--to stand in somebody else’s shoes. Second, they
 tend to get very enthusiastic about other people’s
 disciplines, to the point that they may actually start to
 practice them. Tshaped people have both depth and breadth in
