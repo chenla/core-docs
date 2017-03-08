@@ -162,7 +162,7 @@ them in the dark and feed them shit'.
 
    - [[https://en.wikipedia.org/wiki/T-shaped_skills][T-shaped skills]] | Wikipedia
    - [[https://www.zionandzion.com/what-is-a-t-shaped-person/][What is a T Shaped Person?]] | Zion & Zion
-
+   - [[https://web.archive.org/web/20110329003842/http://www.chiefexecutive.net/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications::Article&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=F42A23CB49174C5E9426C43CB0A0BC46][IDEO CEO Tim Brown: T-Shaped Stars]] | Chief Executive 
 
 #+ATTR_ORG: width="300px"
 [[./img/t-shaped-people.jpg]]
@@ -171,6 +171,30 @@ The Valve Company handbook mentions that they want to hire
 "t-shaped" people; people who have deep knowledge and
 expertise in a few subjects, and basic knowledge and
 experience in many areas.
+
+The term was coined by IDEO's Tim Brown:
+
+#+begin_quote
+T-shaped people have two kinds of characteristics, hence the
+use of the letter “T” to describe them. The vertical stroke
+of the “T” is a depth of skill that allows them to
+contribute to the creative process. That can be from any
+number of different fields: an industrial designer, an
+architect, a social scientist, a business specialist or a
+mechanical engineer. The horizontal stroke of the “T” is the
+disposition for collaboration across disciplines. It is
+composed of two things. First, empathy. It’s important
+because it allows people to imagine the problem from another
+perspective- to stand in somebody else’s shoes. Second, they
+tend to get very enthusiastic about other people’s
+disciplines, to the point that they may actually start to
+practice them. Tshaped people have both depth and breadth in
+their skills.
+
+-- [[https://web.archive.org/web/20110329003842/http://www.chiefexecutive.net/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications::Article&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=F42A23CB49174C5E9426C43CB0A0BC46][IDEO CEO Tim Brown: T-Shaped Stars]] | Chief Executive 
+#+end_quote
+
+
 
 #+begin_quote
 I-shaped person is one who is a functional expert—their
