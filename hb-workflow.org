@@ -78,8 +78,7 @@ it should be the support group, not the creatives. If the
 supporting roles, including management, dominate, the
 quality of products can only suffer.
 
--- [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of
-   work]] | Scott Berkun 2013  Ch4
+-- [[bib:burkun:2013pants][The year without pants]] | Scott Berkun 2013  Ch4
 #+end_quote
 
 
