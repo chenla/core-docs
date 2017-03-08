@@ -160,8 +160,45 @@ them in the dark and feed them shit'.
 
 * T-Shaped People
 
+   - [[https://en.wikipedia.org/wiki/T-shaped_skills][T-shaped skills]] | Wikipedia
+   - [[https://www.zionandzion.com/what-is-a-t-shaped-person/][What is a T Shaped Person?]] | Zion & Zion
+
+
 #+ATTR_ORG: width="300px"
 [[./img/t-shaped-people.jpg]]
+
+The Valve Company handbook mentions that they want to hire
+"t-shaped" people; people who have deep knowledge and
+expertise in a few subjects, and basic knowledge and
+experience in many areas.
+
+#+begin_quote
+I-shaped person is one who is a functional expert—their
+functional expertise being represented by the vertical
+stroke in the letter I. A T-shaped person is more. Much
+more—with the horizontal stroke of the T representing
+cross-functional awareness and understanding, in addition to
+the table stakes vertical stroke.
+
+-- [[https://www.zionandzion.com/what-is-a-t-shaped-person/][What is a T Shaped Person?]] | Zion & Zion
+#+end_quote
+
+T-shaped people tend to be self-starters, and work better
+within teams because they understand the larger context of
+their expertise in relation to everything else.
+
+This is related to Olson's "saturation job" because once you
+have mastered a single subject you have the skills to
+quickly gain proficiency in many other areas.  That doesn't
+mean it will be easy, there are no short cuts, mastering
+anything is a long process.  But once you have mastered one
+thing you know a few things.  First, you know you've already
+done it once so it's possible to do it again.  This isn't so
+obvious when you are setting out to master something.  There
+are any number of times when it feels hopeless.  But once
+you've done it once you /know/ not only it can  be done but
+that it can be done by you.
+
 
 
 * Agile Manifesto
