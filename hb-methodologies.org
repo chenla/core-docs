@@ -232,11 +232,11 @@ helps you see the big picture forest and where all the trees
 are within the forest.
 
 #+CAPTION: Story Maps (placeholder image)
-#+ATTR_ORG: width="400px"
+#+ATTR_ORG: :width 400px
 [[./img/method/story-maps.png]]
 
 #+CAPTION: Story Map (from Head First Agile)
-#+ATTR_ORG: width="600px"
+#+ATTR_ORG: :width 600px
 [[./img/method/story-maps-2.png]]
 
 Story maps are organzied Stories in priority order from
