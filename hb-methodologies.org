@@ -50,7 +50,7 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 * Introduction
 
 #+CAPTION: [[https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Uttar_Pradesh_Apsara.jpg/160px-Uttar_Pradesh_Apsara.jpg][A 12th-century sandstone statue of an Apsara]] | Wikimedia
-#+ATTR_ORG: width="300px"
+#+ATTR_ORG: :width 300px
 [[./img/method/321px-Uttar_Pradesh_Apsara.png]]
 
 It is said that every time the term /Agile/ is spoken aloud,
