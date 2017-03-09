@@ -169,7 +169,7 @@ them in the dark and feed them shit'.
 
 
 
-#+ATTR_ORG: width="400px"
+#+ATTR_ORG: :width 400px
 [[./img/t-shaped-people.png]]
 
 The Valve Company handbook mentions that they prefer to hire
