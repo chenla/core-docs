@@ -170,7 +170,7 @@ them in the dark and feed them shit'.
 
 
 #+ATTR_ORG: width="300px"
-[[./img/t-shaped-people.jpg]]
+[[./img/t-shaped-people.png]]
 
 The Valve Company handbook mentions that they prefer to hire
 "t-shaped" people; people who have deep knowledge and
