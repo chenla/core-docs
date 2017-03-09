@@ -269,7 +269,6 @@ more specialized you are the more vulnerable you are to change.
  - [[bib:fried:2010rework][Rework]] | Crown Business
  - [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of work]] | Jossey-Bass
 
-
 * Working Backwards
 
   - [[http://www.allthingsdistributed.com/2006/11/working_backwards.html][Working Backwards - All Things Distributed]] | @Amazon
@@ -353,6 +352,26 @@ The general work flow at Automattic had seven steps:
 #+end_quote
 
 
+* Conformity Bias
+
+  - [[https://en.wikipedia.org/wiki/Conformity][Conformity]] | Wikipedia
+  - [[http://humancond.org/analysis/bias/conformity][Conformity Bias]]   | The Human Condition
+
+Mary Poppendieck warns that conformity bias works against
+some of the best ideas in a team (group) from emerging at
+all.
+
+#+begin_quote
+Stop Voting
+
+  1. Explore multiple ideas, including outliers
+  2. Pursue a variety of ideas with champions and volunteers
+  3. Gradually narrow the ideas to those that will work
+  4. Maintain multiple options as long as possible
+
+-- Mary Poppendieck | The Future of Software Engineering (presentation)
+#+end_quote
+
 * Scrum Values
 
  - Focus
@@ -411,7 +430,7 @@ digraph h {
 [[./img/chicken-vs-pig.png]]
 
 image source:
-  - [[https://agile-setchu.org/2015/09/29/we-are-not-chickens-nor-are-we-pigs/][We are not chickens, nor are we pigs!]] | Agile at Scale]
+  - [[https://agile-setchu.org/2015/09/29/we-are-not-chickens-nor-are-we-pigs/][We are not chickens, nor are we pigs!]] | Agile at Scale
 
 #+begin_quote
 A Pig and a Chicken are walking down the road.
@@ -435,8 +454,7 @@ interfere with sustainable pace.
 
  -- p97
 
-/Learning Agile/ Andrew Stellman & Jennifer Greene
-2015 O'Reilly Media
+-- /Learning Agile/ Andrew Stellman & Jennifer Greene | 2015
 #+end_quote
 
 * Iterative vs Incremental
