@@ -407,7 +407,7 @@ digraph h {
 
 * The Chicken and the Pig
 
-#+ATTR_ORG: width="400px"
+#+ATTR_ORG: :width 400px
 [[./img/chicken-vs-pig.png]]
 
 image source:
@@ -562,7 +562,7 @@ displays.
 
 Colors *SHOULD* always be used to convey semantic, contextual meaning.
 
-#+ATTR_ORG: width="300px"
+#+ATTR_ORG: :width 300px
 [[./img/bootstrap-colors.png]]
 
 #+begin_src html
