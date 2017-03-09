@@ -563,7 +563,7 @@ displays.
 Colors *SHOULD* always be used to convey semantic, contextual meaning.
 
 #+ATTR_ORG: width="300px"
-[[./img/bootstrap-colors.jpg]]
+[[./img/bootstrap-colors.png]]
 
 #+begin_src html
 <span class="label">Default</span>
