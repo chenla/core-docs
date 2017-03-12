@@ -169,8 +169,8 @@ them in the dark and feed them shit'.
 
 
 
-#+ATTR_ORG: width="300px"
-[[./img/t-shaped-people.jpg]]
+#+ATTR_ORG: :width 400px
+[[./img/t-shaped-people.png]]
 
 The Valve Company handbook mentions that they prefer to hire
 "t-shaped" people; people who have deep knowledge and
@@ -269,7 +269,6 @@ more specialized you are the more vulnerable you are to change.
  - [[bib:fried:2010rework][Rework]] | Crown Business
  - [[bib:burkun:2013pants][The year without pants: WordPress.com and the future of work]] | Jossey-Bass
 
-
 * Working Backwards
 
   - [[http://www.allthingsdistributed.com/2006/11/working_backwards.html][Working Backwards - All Things Distributed]] | @Amazon
@@ -353,6 +352,69 @@ The general work flow at Automattic had seven steps:
 #+end_quote
 
 
+* Conformity Bias
+
+  - [[https://en.wikipedia.org/wiki/Conformity][Conformity]] | Wikipedia
+  - [[http://humancond.org/analysis/bias/conformity][Conformity Bias]]   | The Human Condition
+
+Mary Poppendieck warns that conformity bias works against
+some of the best ideas in a team (group) from emerging at
+all.
+
+There are any number of factors that determine if people
+speak up in a group environment or keep their mouths shut.
+Factors include:
+
+  - age
+  - social status
+  - experience
+  - language skills
+  - gender
+  - culture
+
+Many cultures socialise their societies to always conform,
+go with the flow and keep your opinions to yourself.
+
+#+begin_quote
+Stop Voting
+
+  1. Explore multiple ideas, including outliers
+  2. Pursue a variety of ideas with champions and volunteers
+  3. Gradually narrow the ideas to those that will work
+  4. Maintain multiple options as long as possible
+
+-- Mary Poppendieck | The Future of Software Engineering (presentation)
+#+end_quote
+
+So it is important to create environments where all members
+of a team can contribute ideas without feeling that they are
+being watched or judged by what they say or not say.
+
+Automattic's project blogs where everyone simply adds on
+comments to an existing topic helps all team members
+contribute.
+
+Team leaders need to solicite ideas before and after
+meetings and provide asynchronous channels for people to
+propose ideas.  This is not to say that all ideas are equal
+-- far from it.  But it's often hardest to get the ball
+rolling and propose something new in the first place.
+
+So long as everyone in the team shows respect for each
+other's ideas and are not immediately dismissive or derisive
+then everyone benifits.  Even if something is a patently
+stupid idea, there are any number of reasons that it was
+proposed -- perhaps the person wasn't aware of information
+that was considered to be common knowledge by the rest of
+the group -- if so, then it should be treated as an
+opportunity to teach and learn and improve the person's
+knowledge and ensure that the group improves as a whole.
+
+That's that you should never start a sentence with "I can't
+believe you never..."  Because at some point in the past you
+"never" also, and everyone learns different things at
+different points in their lives in different contexts.
+
 * Scrum Values
 
  - Focus
@@ -407,11 +469,11 @@ digraph h {
 
 * The Chicken and the Pig
 
-#+ATTR_ORG: width="400px"
+#+ATTR_ORG: :width 400px
 [[./img/chicken-vs-pig.png]]
 
 image source:
-  - [[https://agile-setchu.org/2015/09/29/we-are-not-chickens-nor-are-we-pigs/][We are not chickens, nor are we pigs!]] | Agile at Scale]
+  - [[https://agile-setchu.org/2015/09/29/we-are-not-chickens-nor-are-we-pigs/][We are not chickens, nor are we pigs!]] | Agile at Scale
 
 #+begin_quote
 A Pig and a Chicken are walking down the road.
@@ -435,8 +497,7 @@ interfere with sustainable pace.
 
  -- p97
 
-/Learning Agile/ Andrew Stellman & Jennifer Greene
-2015 O'Reilly Media
+-- /Learning Agile/ Andrew Stellman & Jennifer Greene | 2015
 #+end_quote
 
 * Iterative vs Incremental
@@ -562,8 +623,8 @@ displays.
 
 Colors *SHOULD* always be used to convey semantic, contextual meaning.
 
-#+ATTR_ORG: width="300px"
-[[./img/bootstrap-colors.jpg]]
+#+ATTR_ORG: :width 300px
+[[./img/bootstrap-colors.png]]
 
 #+begin_src html
 <span class="label">Default</span>
