@@ -825,9 +825,11 @@ It might turn out to be a dumb idea -- but I'd like to give it a try.
 #+END_SRC
 * Releases
 
-** Continuous Deployment and Releases
+** Continuous Delivery and Deployment
 
  - [[https://en.wikipedia.org/wiki/Continuous_delivery][Continuous delivery]] - Wikipedia
+ - [[https://en.wikipedia.org/wiki/Poka-yoke][Poka-yoke]] | Wikipedia
+
 
 #+begin_quote
 Continuous deployment means that every change is
