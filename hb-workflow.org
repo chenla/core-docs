@@ -823,3 +823,30 @@ It might turn out to be a dumb idea -- but I'd like to give it a try.
   node[style="filled",fontname="Dejavu Sans",fontcolor="black",fontsize=14];
   edge[fontname="Dejavu Sans",fontsize=9];
 #+END_SRC
+* Releases
+
+** Continuous Deployment and Releases
+
+ - [[https://en.wikipedia.org/wiki/Continuous_delivery][Continuous delivery]] - Wikipedia
+
+#+begin_quote
+Continuous deployment means that every change is
+automatically deployed to production. Continuous delivery
+means that the team ensures every change can be deployed to
+production but may choose not to do it, usually due to
+business reasons. In order to do continuous deployment one
+must be doing continuous delivery.
+
+-- [[https://en.wikipedia.org/wiki/Continuous_delivery][Continuous delivery]] - Wikipedia
+#+end_quote
+
+** Release Canarys
+
+ - [[https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html][How release canaries can save your bacon]] | Google Cloud Platform Blog
+ - [[https://news.ycombinator.com/item?id=14027638][How release canaries can save your bacon]] | Hacker News
+
+When you have continous releases, when you make a release,
+use it as a way of testing for bugs and if /anything/ crops
+up then immediately rollback the release and then test.
+
+Release database changes between release canarys.
