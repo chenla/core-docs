@@ -308,6 +308,33 @@ NOTE: look up etherium whisper video
 ** Google Docs
 ** Video Chat
 
+
+* Email
+
+** Multi-Part Mime
+
+ - [[https://litmus.com/blog/reach-more-people-and-improve-your-spam-score-why-multi-part-email-is-important][Improve Your Spam Score With Multi-Part Emails]]
+ - [[https://tools.ietf.org/html/rfc2045][RFC 2045 - Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies]]
+ - https://www.w3.org/Protocols/rfc1341/7_2_Multipart.html
+
+
+I really can't believe that this has to be spelled out for
+people, but I have seen so much abuse of email in the last
+few years that I guess it's a lesson that has to be
+revisited periodically and learned anew by each new
+generation.
+
+Email is a communications tool designed to send plain text
+messages.  This is not a bug it's a feature.
+
+#+begin_comment
+Fuck I'm tired -- too tired to write a plain text email
+rant, which is about as low hanging fruit as you could
+want...
+
+<2017-05-18T09:43>
+#+end_comment
+
 * Chenla (b>i) Workflow
 
 * References
