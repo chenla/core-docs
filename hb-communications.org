@@ -330,14 +330,6 @@ generation.
 Email is a communications tool designed to send plain text
 messages.  This is not a bug it's a feature.
 
-#+begin_comment
-Fuck I'm tired -- too tired to write a plain text email
-rant, which is about as low hanging fruit as you could
-want...
-
-<2017-05-18T09:43>
-#+end_comment
-
 The long and short of it.
 
   - Send plain text email.
@@ -358,6 +350,17 @@ The long and short of it.
       (not sure if I've ever seen one, but hey...).
   - When sending multipart mime messages, please use clean
     standard HTML.  NEVER NEVER set a background color.
+
+
+Reasons not to use:
+
+  - proportional fonts look like crap in plain text email
+    clients that render basic html.  Plain text is rendered
+    using monospace which looks great in a text editor.
+  - not everyone uses web mail for everything!  This may
+    come as a surprise to some people but Gmail, Apple Mail,
+    Hotmail and Yahoo Mail are not the only way you can get
+    and use email.
 
 
 
