@@ -314,7 +314,7 @@ NOTE: look up etherium whisper video
 ** Multi-Part Mime
 
  - [[https://litmus.com/blog/reach-more-people-and-improve-your-spam-score-why-multi-part-email-is-important][Improve Your Spam Score With Multi-Part Emails]]
- - [[https://tools.ietf.org/html/rfc2045][RFC 2045 - Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies]]
+ - [[https://tools.ietf.org/html/rfc2045][RFC 2045 - Multipurpose Internet Mail Extensions (MIME)]] | Part One
  - https://www.w3.org/Protocols/rfc1341/7_2_Multipart.html
 
 
