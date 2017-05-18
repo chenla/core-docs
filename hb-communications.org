@@ -313,10 +313,13 @@ NOTE: look up etherium whisper video
 
 ** Multi-Part Mime
 
- - [[https://litmus.com/blog/reach-more-people-and-improve-your-spam-score-why-multi-part-email-is-important][Improve Your Spam Score With Multi-Part Emails]]
+AKA: Rich Text, Fancy Mail, HTML Email
+
+- [[https://litmus.com/blog/reach-more-people-and-improve-your-spam-score-why-multi-part-email-is-important][Improve Your Spam Score With Multi-Part Emails]]
  - [[https://tools.ietf.org/html/rfc2045][RFC 2045 - Multipurpose Internet Mail Extensions (MIME)]] | Part One
  - https://www.w3.org/Protocols/rfc1341/7_2_Multipart.html
-
+ - [[http://archive.birdhouse.org/etc/evilmail.html][Why HTML in E-Mail is a Bad Idea]] | (1998) author said he has
+   since changed his mind.
 
 I really can't believe that this has to be spelled out for
 people, but I have seen so much abuse of email in the last
@@ -334,6 +337,36 @@ want...
 
 <2017-05-18T09:43>
 #+end_comment
+
+The long and short of it.
+
+  - Send plain text email.
+  - Do not use for regular communication between people
+  - NEVER use for mailing lists.
+  - Do not use for newsletters (if it's formated, then
+    attatch it or provide as a link). 
+  - Do not use for marketing.
+  - NEVER use for security alerts.
+  - If you *must*, then ensure that there is a plain text
+    /and/ html version as well using RFC2045.  There are a
+    few situations when you might have to use:
+    - some bonehead demands/requests it, because plain text
+      doesn't reformat in some webmail apps on mobile
+      devices.  Best just to give them what they ask for,
+      they'll never understand.
+    - it is required to be used in reply to a html email
+      (not sure if I've ever seen one, but hey...).
+  - When sending multipart mime messages, please use clean
+    standard HTML.  NEVER NEVER set a background color.
+
+
+
+** Fancy Email FAQ
+
+Why Is Fancy Email So Bad? 
+
+1. It's even in the name.  The word fancy is seldom used to
+   mean anything positive.
 
 * Chenla (b>i) Workflow
 
