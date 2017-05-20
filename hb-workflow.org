@@ -247,9 +247,6 @@ means that they are vulnerable to environmental changes that
 eliminate the conditions that they evolved to exploit.  The
 more specialized you are the more vulnerable you are to change.
 
-* Agile Manifesto
- - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
- -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
 
 * Remote Manifesto
 
