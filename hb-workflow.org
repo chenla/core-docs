@@ -520,46 +520,6 @@ different points in their lives in different contexts.
 [[https://www.scrumalliance.org/why-scrum/core-scrum-values-roles][Scrum Values | Scrum Principles]] | Scrum Alliance
 
 
-* The Waterfall
-
-#+BEGIN_SRC dot :file img/waterfall.png :noweb yes :exports results
-digraph h {
-  <<dot-style>>
-
-  rankdir=LR;
-  splines=ortho;
-
-  node      [fixedsize="true",height=".60",width="1.7",fillcolor="#56B4E9:0.5:#8EC9E9",gradientangle=90,fontcolor="#FFFFFF",shape=box]
-  req       [label="requirements"]
-  design    [label="design", pos="30,30"]
-  imp       [label="implementation"]
-  verify    [label="verification"]
-  maint     [label="maintainence"]
-
- { rank=min; req;}
- { rank=sink; design;}
- { rank=min; imp; }
- { rank=sink; verify; }
- { rank=min; maint; }
-
-  req    -> design;
-  design -> imp ;
-  imp    -> verify ;
-  verify -> maint ;
-}
-#+END_SRC
-
-#+RESULTS:
-[[file:img/waterfall.png]]
-
-
-** Normative References
-:url: https://en.wikipedia.org/wiki/Waterfall_model
-
-
-
-
-
 
 * The Chicken and the Pig
 
