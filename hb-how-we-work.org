@@ -56,15 +56,15 @@ the source!
 
 *Barbara:* Adam, is this what happens when you die?
 
-*Receptionist:* This is what happens when *you* die.
+*Receptionist:* This is what happens when /you/ die.
 
 [points at a gaunt man smoking]
 
-*Receptionist:* That is what happens when *he* dies.
+*Receptionist:* That is what happens when /he/ dies.
 
 [points at a woman cut in half on the sofa reading]
 
-*Receptionist:* And that is what happens when *they* die. It's all
+*Receptionist:* And that is what happens when /they/ die. It's all
 very personal. 
 
 -- Bettlejuice (1988)
@@ -74,7 +74,7 @@ very personal.
 It's a bit of a misnomer to state /How We Work/, because, like the
 receptionist in the afterlife in Bettlejuice said, /it's all very
 personal/.  We all work in different ways, there is no one size fits
-all.  We work differently at an organizational level, than at the
+all.  We work differently at an organizational level than at the
 project level and team level work is different from how we work as
 individuals.  And no two projects, teams or individuals work quite the
 same.  That said, there are patterns to the way we work, and work
