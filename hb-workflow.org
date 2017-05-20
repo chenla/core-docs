@@ -509,17 +509,6 @@ believe you never..."  Because at some point in the past you
 "never" also, and everyone learns different things at
 different points in their lives in different contexts.
 
-* Scrum Values
-
- - Focus
- - Courage
- - Openness
- - Commitment
- - Respect
-
-[[https://www.scrumalliance.org/why-scrum/core-scrum-values-roles][Scrum Values | Scrum Principles]] | Scrum Alliance
-
-
 
 * The Chicken and the Pig
 

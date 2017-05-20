@@ -192,6 +192,16 @@ digraph h {
 
 :SEE: [[https://www.scrumalliance.org/why-scrum/scrum-guide][The Scrum Guide]] | Scrum Alliance
 
+** Scrum Values
+
+[[https://www.scrumalliance.org/why-scrum/core-scrum-values-roles][- Scrum Values | Scrum Principles]] | Scrum Alliance
+
+ - Focus
+ - Courage
+ - Openness
+ - Commitment
+ - Respect
+
 ** Development Team
 
 - Self Organizing
