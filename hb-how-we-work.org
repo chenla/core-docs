@@ -45,4 +45,7 @@ And yes I am extremely aware that I am writing a handbook for a team
 of one person at the moment -- build it and they will come, I
 suppose....
 
+Hah! just checked and comment blocks AREN'T rendered by Github, so if
+you're reading this, or any other of my snarky asides, you're reading
+the source!
 #+end_comment
