@@ -49,3 +49,25 @@ Hah! just checked and comment blocks AREN'T rendered by Github, so if
 you're reading this, or any other of my snarky asides, you're reading
 the source!
 #+end_comment
+
+
+#+begin_quote
+[in the waiting room of the afterlife]
+
+*Barbara:* Adam, is this what happens when you die?
+
+*Receptionist:* This is what happens when *you* die.
+
+[points at a gaunt man smoking]
+
+*Receptionist:* That is what happens when *he* dies.
+
+[points at a woman cut in half on the sofa reading]
+
+*Receptionist:* And that is what happens when *they* die. It's all
+very personal. 
+
+-- Bettlejuice (1988)
+#+end_quote
+
+
