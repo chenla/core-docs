@@ -37,6 +37,20 @@ after the first week).
 A lot of the material in here needs to be moved to other
 files.  All the agile and scrum stuff can go to
 methodologies and meeting stuff can go to communications.
+
+In fact, pretty much all of it has to be moved.  Workflow
+should be a lot more process based -- we have larger and
+smaller workflows.
+
+We also have publication workflows that are different from
+code and design work.
+
+ - how we work
+ - workflow & toolchains
+ - methodologies
+ - communications
+ - rituals
+ - remote work
 #+end_comment
 
 
