@@ -332,6 +332,9 @@ The general work flow at Automattic had seven steps:
 
 Basecamp breaks work into /cycles/, and /heartbeats/.
 
+
+** Asynchronously
+
 As most remote work companies they favor /asynchronous/
 communications.
 
@@ -361,9 +364,28 @@ one-day turn-around every time.
 -- How We Work | Basecamp
 #+end_quote
 
+** Pitches
 
 
- /pitches/
+#+begin_quote
+Whether you work on the product development or not, your
+voice and observations can help determine what we should be
+working on. The way to exert this influence is through
+pitches.
+
+Write-up your idea of a new feature, a change to a feature,
+or any other product development you think we should be
+considering as a fully considered post (the more specific,
+the better). This gives the whole company a chance to
+consider and respond to the idea, and then we'll have the
+idea encapsulated in a post, available for reference at any
+time.
+
+-- How We Work | Basecamp
+#+end_quote
+
+
+** Organization
 
 The company tries to minimize the need for everything to go
 through departents -- because work get's bogged down in
