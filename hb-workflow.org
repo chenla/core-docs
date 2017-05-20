@@ -33,6 +33,12 @@ Zappos is well known for placing tremendous emphasis on
 cultural fit (so much so that they offer you $3,000 to leave
 after the first week).
 
+#+begin_comment
+A lot of the material in here needs to be moved to other
+files.  All the agile and scrum stuff can go to
+methodologies and meeting stuff can go to communications.
+#+end_comment
+
 
 * Management Model
 
