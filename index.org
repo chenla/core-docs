@@ -68,7 +68,13 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./hb-communications.org][Communications Handbook]] 
  - [[./hb-conventions.org][Conventions Handbook]] 
  - [[hb-style-guides.org][Style Guide Handbook]] 
- - [[./hb-workflow.org][Workflow Handbook]]
+ - [[./hb-workflow.org][Workflow Handbook]] | General
+   - Publishing Workflow
+   - Application Workflow
+   - Design Workflow
+   - Project Workflow
+   - MICE Planning Workflow
+   - Personal Workflow Cookbook
  - [[./hb-methodologies.org][Development Methodologies Handbook]]
  - [[./hb-meetings.org][Meetings Handbook]] 
 
