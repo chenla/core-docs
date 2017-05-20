@@ -358,9 +358,39 @@ In Small Batch, we work on stuff that won’t take longer than
 2 weeks at the maximum. So we can get more like 3-5 smaller
 things done in a single cycle.
 
--- -- How We Work | Basecamp
+-- How We Work | Basecamp
 #+end_quote
 
+** Heartbeats
+
+#+begin_quote
+It’s hard to keep up on what everyone is doing and what it
+means, if you just watch the stream of latest activity
+scrolling along in Basecamp. (It’s also a waste of time and
+source of stress to even try.) Instead, we have three chief
+mechanisms for keeping everyone in the loop about the work
+that’s going on.
+
+First, there’s the daily question of What did you work on
+today?, which supplies the nitty gritty details, but as a
+personal narrative. They’re a great conversation starter if
+you see someone working on something you either care about
+or want to learn more about. Please do use them as such!
+
+Second, there’s the weekly question of What will you be
+working on this week? which answers the nitty gritty at a
+slightly higher level. Well, at least the intentions of
+that!
+
+Third, and finally, there is the team updates. They usually
+happen half-way through a cycle, at the end of a cycle, or
+when something new is launched. This is where the big
+presentation of work is done, and the main way for you to
+keep in the loop with what the company is focused on at a
+high, digestible level.
+
+-- How We Work | Basecamp
+#+end_quote
 
 ** Asynchronously
 
