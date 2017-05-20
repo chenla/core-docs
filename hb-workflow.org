@@ -330,8 +330,43 @@ The general work flow at Automattic had seven steps:
 
  - [[https://github.com/basecamp/handbook/blob/master/README.md#basecamp-employee-handbook][basecamp/handbook]] | GitHub
 
+Basecamp breaks work into /cycles/, and /heartbeats/.
+
+As most remote work companies they favor /asynchronous/
+communications.
+
+#+begin_quote
+It’s far better for everyone’s concentration and sanity if
+you collaborate as though most things will get an answer
+eventually, but not necessarily right this second. Your
+first choice of action should be to post a message, a todo,
+or a document about what you need to explain or need to
+know. Then others can read it on their schedule, when the
+natural lulls of the day allow it, rather than being
+interrupted right in their peak flow time.
+
+Don’t take that as gospel, though. Some times you really DO
+need to tightly collaborate with someone for an extended
+period of time, and that’s fine. We have pings, hangouts,
+screensharing, or even in-person collaboration for when
+nothing else will do. (But most of the time something else
+will).
+
+All that being said, you should still ensure that there is
+ample overlap with the people you work with most of the
+time. While most roadblocks can just as well be cleared in
+15-30-60 minutes, they become real annoying if it’s a
+one-day turn-around every time.
+
+-- How We Work | Basecamp
+#+end_quote
 
 
+
+ /pitches/
+
+
+They also work in self-sufficient, independent teams.
 
 * Conformity Bias
 
