@@ -326,6 +326,13 @@ The general work flow at Automattic had seven steps:
 #+end_quote
 
 
+* Workflow at Basecamp
+
+ - [[https://github.com/basecamp/handbook/blob/master/README.md#basecamp-employee-handbook][basecamp/handbook]] | GitHub
+
+
+
+
 * Conformity Bias
 
   - [[https://en.wikipedia.org/wiki/Conformity][Conformity]] | Wikipedia
