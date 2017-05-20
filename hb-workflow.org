@@ -365,8 +365,15 @@ one-day turn-around every time.
 
  /pitches/
 
+The company tries to minimize the need for everything to go
+through departents -- because work get's bogged down in
+/organizational bottlenecks/.
 
-They also work in self-sufficient, independent teams.
+So, when possible work is broken into self-sufficient,
+independent teams. It's not mentioned what the average size
+of teams are, or how they are structured.
+
+
 
 * Conformity Bias
 
