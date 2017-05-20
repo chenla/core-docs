@@ -25,3 +25,19 @@
 
 * Introduction
 
+#+begin_comment
+I just want to go to sleep, but have to wait for SINet to call back
+about the campus internet connection...
+
+So what will this page be for?
+
+I think this will be the generalized chenla-specific version of /how
+we work/.  The other files, workflow, methodologies, communication etc
+are more background and why we work the way we do.  After all, we are
+as much an academic group as much as developers, engineers and
+scientists.  This is needed because many of the things we will do here
+will be applicable to human and machine distributed systems we are
+developing.
+
+So in a sense this will be the team handbook....
+#+end_comment
