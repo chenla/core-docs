@@ -330,7 +330,36 @@ The general work flow at Automattic had seven steps:
 
  - [[https://github.com/basecamp/handbook/blob/master/README.md#basecamp-employee-handbook][basecamp/handbook]] | GitHub
 
-Basecamp breaks work into /cycles/, and /heartbeats/.
+Basecamp breaks work into /cycles/, and /heartbeats/:
+
+#+begin_quote
+We work in 6-week cycles at Basecamp. This fixed cadence
+serves to give us an internal sense of urgency, work as a
+scope hammer to keep projects from ballooning, and provide a
+regular interval to decide what we’re working on.
+
+The idea is not that everything we ever decide to work on
+has to take six weeks or can be completed in that time. But
+rather that we think about how we can break big projects
+into smaller ones that can be done in that amount of time,
+and that we bundle smaller things into presentable scope of
+work that can be discussed.
+
+On the product side, we’ve even formalized this further with
+the notion of Big Batch and Small Batch work. In Big Batch,
+we work on a single feature that’s likely to take the entire
+six weeks. In this mode, the six week limit works as a
+budget. If what we currently have in mind doesn’t fit within
+that, the first approach should be to judo the problem and
+scope hammer the domain. Most things we work on can fit
+within six weeks.
+
+In Small Batch, we work on stuff that won’t take longer than
+2 weeks at the maximum. So we can get more like 3-5 smaller
+things done in a single cycle.
+
+-- -- How We Work | Basecamp
+#+end_quote
 
 
 ** Asynchronously
