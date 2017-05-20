@@ -40,4 +40,9 @@ will be applicable to human and machine distributed systems we are
 developing.
 
 So in a sense this will be the team handbook....
+
+And yes I am extremely aware that I am writing a handbook for a team
+of one person at the moment -- build it and they will come, I
+suppose....
+
 #+end_comment
