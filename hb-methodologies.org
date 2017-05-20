@@ -311,12 +311,23 @@ virtually.
 
 ** Daily Scrum Meeting
 
+#+begin_comment
 *NOTE:* 2016-08-30 Obviously we have not started doing this, but I
 came across the [[https://wiki.openmrs.org/display/RES/Daily+Scrum+Meeting][OpenMRS daily scrum meeting]] and thought that this is a
 good fit with what I hope to do. The text in this section is using the
 OpenMRS page as a starting point from which we'll slowly adapt.  I've
 taken part in the weekly meetings held on IRC for One Laptop Per
 Child, and they seem to work well.
+
+*NOTE:* 2017-05-20  We are not going to be calling this
+"scrum" but just daily team meetings -- I was uncomfortable
+with adopting any methodology that borders on being dogma --
+I know this is unfair and if this get's out I will be
+roasted, but there is a lot of baggage associated with agile
+and scrum though there are some /excellent/ ideas in it.
+We're better off giving teams a variety of tools they can
+use and organize around and leave it at that.
+#+end_comment
 
 The daily scrum meeting is a focused, 15-minute meeting for people
 contributing to the core development of Chenla Saltmine to come
