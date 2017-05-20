@@ -109,6 +109,13 @@ broader concept of project development.
 *Needless to say this document is very much a work in progress!*
 
 * Agile
+
+** Agile Manifesto
+ - [[http://agilemanifesto.org/][Manifesto for Agile Software Development]]
+ -[[http://agilemanifesto.org/principles.html][ Principles behind the Agile Manifesto]]
+
+
+
 * Scrum
 
 
