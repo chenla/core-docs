@@ -510,38 +510,6 @@ believe you never..."  Because at some point in the past you
 different points in their lives in different contexts.
 
 
-* The Chicken and the Pig
-
-#+ATTR_ORG: :width 400px
-[[./img/chicken-vs-pig.png]]
-
-image source:
-  - [[https://agile-setchu.org/2015/09/29/we-are-not-chickens-nor-are-we-pigs/][We are not chickens, nor are we pigs!]] | Agile at Scale
-
-#+begin_quote
-A Pig and a Chicken are walking down the road.
-
-The Chicken says: “Hey Pig, I was thinking we should open a restaurant!”
-
-Pig replies: “Hm, maybe; what would we call it?”
-
-The Chicken responds: “How about ‘ham-n-eggs’?”
-
-The Pig thinks for a moment and says: “No, thanks. I’d be committed,
-but you’d only be involved!”[4]
-
-
-[4] Just to be clear: a committed “pig” cares about the project’s
-success more than he cares about anything else in his professional
-life. There are a lot of other things in his personal life -- like his
-family, for example -- that he usually cares more about. If that’s not
-the case, it’s actually a problem with the team’s mindset, and it will
-interfere with sustainable pace.
-
- -- p97
-
--- /Learning Agile/ Andrew Stellman & Jennifer Greene | 2015
-#+end_quote
 
 * Iterative vs Incremental
 
