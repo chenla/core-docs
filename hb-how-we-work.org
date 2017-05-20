@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: How We Work
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/docs/hb-how-we-work.org
+  :Created:   2017-05-20T14:41@Prek Leap (11.642600N-104.919210W)
+  :ID:        67f807cf-a4dd-4f09-b7e7-ef40fd00f647
+  :VER:       548538140.395599462
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:DNH8-5187
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
