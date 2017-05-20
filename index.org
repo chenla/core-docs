@@ -57,6 +57,13 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
 * Handbooks
 
+ - [[./hb-how-we-work.org][How We Work]]
+ - Where We Work
+ - Remote Work
+ - Workflow & Toolchains
+ - Rituals
+
+
  - [[./hb-collaborations.org][Collaboration Handbook]]
  - [[./hb-communications.org][Communications Handbook]] 
  - [[./hb-conventions.org][Conventions Handbook]] 
@@ -64,6 +71,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./hb-workflow.org][Workflow Handbook]]
  - [[./hb-methodologies.org][Development Methodologies Handbook]]
  - [[./hb-meetings.org][Meetings Handbook]] 
+
 * HOWTO
 
  - [[howto-video-conference.org][Video Conferencing HOWTO]]

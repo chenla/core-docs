@@ -37,7 +37,6 @@ Chenla & b>i do not proscribe /any/ development
 methodologies.  Every project is free to concoct the
 methodologies that they find work best.
 
-
 #+begin_quote
 An excellent example of staying out of the way is that when
 teams were formed at Automattic, a major question was how
@@ -107,6 +106,7 @@ the excellent concepts in Agile and Scrum to encompass a
 broader concept of project development.
 
 *Needless to say this document is very much a work in progress!*
+
 
 
 * Working Backwards
