@@ -667,36 +667,33 @@ Should use
 .tag span.Backend,
 .tag span.Frontend,
 .tag span.UI,
-.tag span.Infra,
-.tag span.Wetlab,
-.tag span.Hardlab,
-.tag span.Softlab { background: #5CB85C; }
+.tag span.Infra { background: #5CB85C; }
 #+end_src
 
 When rendered in html.
 
- - Backend  :: Backend Team
- - Frontend :: Frontend Team
- - Infra    :: Infrastructure Team
- - UI       :: User Interface Team
+ - *Backend*  : Backend Team
+ - *Frontend* : Frontend Team
+ - *Infra*    : Infrastructure Team
+ - *UI*       : User Interface Team
 
 ** Subject, Type, Priority
 
-*** Workflow-Kanban
+*** Workflow: Kanban & TODO
 
 Workflow is used on the Kanban Board and in TODO items
 
- - PLAN  : backlog
- - NEXT  : what will be worked on next
- - WORK  : work in progress
- - DONE  : completed work or closed issues
+ - *PLAN*  : backlog
+ - *NEXT*  : what will be worked on next
+ - *WORK*  : work in progress
+ - *DONE*  : completed work or closed issues
 
 *** Type
- - bug      : [[https://img.shields.io/badge/type-bug-CC79A7.svg?style=flat-square]]
- - feature  : [[https://img.shields.io/badge/type-feature-D55E00.svg?style=flat-square]]
- - request  : [[https://img.shields.io/badge/type-request-56B4E9.svg?style=flat-square]]
- - wish     : [[https://img.shields.io/badge/type-wish-D55E00.svg?style=flat-square]] 
- - moonshot : [[https://img.shields.io/badge/type-moonshot-999999.svg?style=flat-square]] 
+ - *bug*      : [[https://img.shields.io/badge/type-bug-CC79A7.svg?style=flat-square]]
+ - *feature*  : [[https://img.shields.io/badge/type-feature-D55E00.svg?style=flat-square]]
+ - *request*  : [[https://img.shields.io/badge/type-request-56B4E9.svg?style=flat-square]]
+ - *wish*     : [[https://img.shields.io/badge/type-wish-D55E00.svg?style=flat-square]] 
+ - *moonshot* : [[https://img.shields.io/badge/type-moonshot-999999.svg?style=flat-square]] 
 
 *** Priority 
 
@@ -705,15 +702,22 @@ items.  For this reason they are to be used sparingly -- but when they
 are used they need to be taken seriously.  Priorities should be
 discussed before being assigned.
 
- - #A: Critical. Must be given priority over any other issue except
+ - *#A* : Critical. Must be given priority over any other issue except
    other #A level priority issues.  
- - #B: Must. Must be finished within the current sprint, milestone or
+ - *#B* : Must. Must be finished within the current sprint, milestone or
    release.
- - #C: Should. Takes priority over other non critical features, tasks
+ - *#C* : Should. Takes priority over other non critical features, tasks
    or goals.
 
 
 * Tags
+
+** Misc
+
+Used mostly for repo README files
+
+- Made-By Chenla : [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+- Licence : [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 ** Category
 - [[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]]
