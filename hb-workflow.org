@@ -749,6 +749,16 @@ Used mostly for repo README files
   -- Request for Feedback and Comments
 - [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]] -- Published/Released
 
+** Git Tags
+
+Badges for git Tags are used when the status has reached the
+/draft/.  Stubs and WIP are to nebulous for revision
+numbers to be of any use. But a draft is approaching some
+kind of final form that people may reference and link to, so
+it makes sense to version everything thereafter.
+
+- [[https://img.shields.io/badge/tag-v1.0.1-0072B2.svg?style=flat-square]]
+
 
 
 * Chenla Mailing Lists
