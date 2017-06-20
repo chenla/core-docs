@@ -1,4 +1,4 @@
-* Chenla Team Handbook
+* Chenla Team & Project Handbooks
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
