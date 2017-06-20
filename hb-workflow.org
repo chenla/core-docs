@@ -737,6 +737,7 @@ Used mostly for repo README files
 - [[https://img.shields.io/badge/entity-concept-0072B2.svg?style=flat-square]]  -- concept
 - [[https://img.shields.io/badge/entity-material-0072B2.svg?style=flat-square]]  -- material
 - [[https://img.shields.io/badge/entity-blob-0072B2.svg?style=flat-square]]  -- blob
+- [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]  -- TOC
 
 ** Status
 
