@@ -683,17 +683,20 @@ When rendered in html.
 ** Subject, Type, Priority
 
 *** Workflow-Kanban
- - PLAN ::   (backlog)
- - NEXT :: 
- - WORK ::
- - DONE ::
+
+Workflow is used on the Kanban Board and in TODO items
+
+ - PLAN  : backlog
+ - NEXT  : what will be worked on next
+ - WORK  : work in progress
+ - DONE  : completed work or closed issues
 
 *** Type
- - bug      :: [[https://img.shields.io/badge/type-bug-D55E00.svg?style=flat-square]]
- - feature  ::
- - request  :: 
- - wish     :: 
- - moonshot :: 
+ - bug      : [[https://img.shields.io/badge/type-bug-CC79A7.svg?style=flat-square]]
+ - feature  : [[https://img.shields.io/badge/type-feature-D55E00.svg?style=flat-square]]
+ - request  : [[https://img.shields.io/badge/type-request-56B4E9.svg?style=flat-square]]
+ - wish     : [[https://img.shields.io/badge/type-wish-D55E00.svg?style=flat-square]] 
+ - moonshot : [[https://img.shields.io/badge/type-moonshot-999999.svg?style=flat-square]] 
 
 *** Priority 
 
