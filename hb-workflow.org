@@ -729,15 +729,16 @@ Used mostly for repo README files
 
 ** Entity Types
 
-- [[https://img.shields.io/badge/entity-tl;dr-0072B2.svg?style=flat-square]] -- tl;dr
-- [[https://img.shields.io/badge/entity-pattern-0072B2.svg?style=flat-square]]  -- pattern
-- [[https://img.shields.io/badge/entity-place-0072B2.svg?style=flat-square]]  -- place
-- [[https://img.shields.io/badge/entity-event-0072B2.svg?style=flat-square]]  -- event
-- [[https://img.shields.io/badge/entity-person-0072B2.svg?style=flat-square]]  -- person
-- [[https://img.shields.io/badge/entity-concept-0072B2.svg?style=flat-square]]  -- concept
-- [[https://img.shields.io/badge/entity-material-0072B2.svg?style=flat-square]]  -- material
-- [[https://img.shields.io/badge/entity-blob-0072B2.svg?style=flat-square]]  -- blob
-- [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]  -- TOC
+| [[https://img.shields.io/badge/entity-tl;dr-0072B2.svg?style=flat-square]]    | tl;dr    |
+| [[https://img.shields.io/badge/entity-pattern-0072B2.svg?style=flat-square]]  | pattern  |
+| [[https://img.shields.io/badge/entity-place-0072B2.svg?style=flat-square]]    | place    |
+| [[https://img.shields.io/badge/entity-event-0072B2.svg?style=flat-square]]    | event    |
+| [[https://img.shields.io/badge/entity-person-0072B2.svg?style=flat-square]]   | person   |
+| [[https://img.shields.io/badge/entity-concept-0072B2.svg?style=flat-square]]  | concept  |
+| [[https://img.shields.io/badge/entity-material-0072B2.svg?style=flat-square]] | material |
+| [[https://img.shields.io/badge/entity-blob-0072B2.svg?style=flat-square]]     | blob     |
+| [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]      | TOC      |
+| [[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]   | README   |
 
 ** Status
 
