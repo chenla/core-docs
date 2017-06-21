@@ -721,7 +721,7 @@ Used mostly for repo README files
 ** Category
 | [[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]]        | Descriptive, prescripive, theory, history, background |
 | [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]        | Things that in principle can be built and deployed    |
-| [[https://img.shields.io/badge/category-project-D55E00.svg?style=flat-square]]q      | Projects build and deploy things                      |
+| [[https://img.shields.io/badge/category-project-D55E00.svg?style=flat-square]]       | Projects build and deploy things                      |
 | [[https://img.shields.io/badge/category-specification-CC79A7.svg?style=flat-square]] | Technical specifications & standards                  |
 
 ** Entity Types
