@@ -726,6 +726,8 @@ Used mostly for repo README files
   -- Things that in principle can be built and deployed
 - [[https://img.shields.io/badge/category-project-D55E00.svg?style=flat-square]]
   -- Projects build and deploy things
+- [[https://img.shields.io/badge/category-specification-CC79A7.svg?style=flat-square]]
+  -- Technical specifications & standards
 
 ** Entity Types
 
