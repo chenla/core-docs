@@ -1,7 +1,25 @@
-* Chenla Team & Project Handbooks
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+* Chenla Team & Project Handbooks
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/docs/README.org
+  :Created:   2017-06-22T11:26@Prek Leap (11.642600N-104.919210W)
+  :ID:        df5118fb-32a1-48fe-a30e-b4d25a6b24be
+  :VER:       551377682.295071394
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:DLD4-4535
+  :Category:  deploy
+  :Entity:    readme
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-Documents and handbooks used by projects at the Chenla Institute.
+Team Documents and handbooks used by projects at the Chenla Institute.
