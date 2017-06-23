@@ -10,7 +10,7 @@
   :ID:        7263a62c-5dde-4fac-acb0-b20ee27b19e4
   :VER:       551488577.493133288
   :GEO:       48P-491193-1287029-15
-  :BXID:      proj:GCW4-5846
+  :BXID:      chenla:GCW4-5846
   :Class:     deploy
   :Type:      work
   :Status:    wip 
@@ -22,7 +22,6 @@
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
 
 * Introduction
 
