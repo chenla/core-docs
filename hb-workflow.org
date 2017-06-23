@@ -680,10 +680,10 @@ Should use
 
 Workflow is used on the Kanban Board and in TODO items
 
- - *PLAN*  : backlog
- - *NEXT*  : what will be worked on next
- - *WORK*  : work in progress
- - *DONE*  : completed work or closed issues
+| *PLAN* | backlog                         |
+| *NEXT* | what will be worked on next     |
+| *WORK* | work in progress                |
+| *DONE* | completed work or closed issues |
 
 *** Issue Types
  | *bug*      | [[https://img.shields.io/badge/issue-bug-CC79A7.svg?style=flat-square]] |
