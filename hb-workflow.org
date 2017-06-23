@@ -1,19 +1,25 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Workflow Handbook
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/docs/hb-workflow.org
-  :Created: 2017-02-07T16:53@Prek Leap (11.642600N-104.919210W)
-  :ID: 7263a62c-5dde-4fac-acb0-b20ee27b19e4
-  :URL:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/docs/hb-workflow.org
+  :Created:   2017-02-07T16:53@Prek Leap (11.642600N-104.919210W)
+  :ID:        7263a62c-5dde-4fac-acb0-b20ee27b19e4
+  :VER:       551488577.493133288
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:GCW4-5846
+  :Class:     deploy
+  :Type:      work
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-#+TOC: headlines 4
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
-[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
