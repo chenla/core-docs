@@ -747,18 +747,20 @@ Used mostly for repo README files
 
 ** Entity Types
 
-| [[https://img.shields.io/badge/type-tl;dr-0072B2.svg?style=flat-square]]    | tl;dr    |
-| [[https://img.shields.io/badge/type-pattern-0072B2.svg?style=flat-square]]  | pattern  |
-| [[https://img.shields.io/badge/type-place-0072B2.svg?style=flat-square]]    | place    |
-| [[https://img.shields.io/badge/type-event-0072B2.svg?style=flat-square]]    | event    |
-| [[https://img.shields.io/badge/type-person-0072B2.svg?style=flat-square]]   | person   |
-| [[https://img.shields.io/badge/type-concept-0072B2.svg?style=flat-square]]  | concept  |
-| [[https://img.shields.io/badge/type-material-0072B2.svg?style=flat-square]] | material |
-| [[https://img.shields.io/badge/type-blob-0072B2.svg?style=flat-square]]     | blob     |
-| [[https://img.shields.io/badge/type-TOC-0072B2.svg?style=flat-square]]      | TOC      |
-| [[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]   | README   |
-| [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]     | Work     |
-
+| [[https://img.shields.io/badge/type-tl;dr-0072B2.svg?style=flat-square]]         | tl;dr         |
+| [[https://img.shields.io/badge/type-pattern-0072B2.svg?style=flat-square]]       | pattern       |
+| [[https://img.shields.io/badge/type-place-0072B2.svg?style=flat-square]]         | place         |
+| [[https://img.shields.io/badge/type-event-0072B2.svg?style=flat-square]]         | event         |
+| [[https://img.shields.io/badge/type-person-0072B2.svg?style=flat-square]]        | person        |
+| [[https://img.shields.io/badge/type-concept-0072B2.svg?style=flat-square]]       | concept       |
+| [[https://img.shields.io/badge/type-material-0072B2.svg?style=flat-square]]      | material      |
+| [[https://img.shields.io/badge/type-blob-0072B2.svg?style=flat-square]]          | blob          |
+| [[https://img.shields.io/badge/type-TOC-0072B2.svg?style=flat-square]]           | TOC           |
+| [[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]        | README        |
+| [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]          | Work          |
+| [[https://img.shields.io/badge/type-expression-0072B2.svg?style=flat-square]]    | Expression    |
+| [[https://img.shields.io/badge/type-manifestation-0072B2.svg?style=flat-square]] | Manifestation |
+| [[https://img.shields.io/badge/type-instance-0072B2.svg?style=flat-square]]      | Instance      |
 
 ** Status
 
