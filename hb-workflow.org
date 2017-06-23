@@ -686,12 +686,12 @@ Workflow is used on the Kanban Board and in TODO items
  - *WORK*  : work in progress
  - *DONE*  : completed work or closed issues
 
-*** Type
- | *bug*      | [[https://img.shields.io/badge/type-bug-CC79A7.svg?style=flat-square]]      |
- | *feature*  | [[https://img.shields.io/badge/type-feature-D55E00.svg?style=flat-square]]  |
- | *request*  | [[https://img.shields.io/badge/type-request-56B4E9.svg?style=flat-square]]  |
- | *wish*     | [[https://img.shields.io/badge/type-wish-D55E00.svg?style=flat-square]]     |
- | *moonshot* | [[https://img.shields.io/badge/type-moonshot-999999.svg?style=flat-square]] |
+*** Issue Types
+ | *bug*      | [[https://img.shields.io/badge/issue-bug-CC79A7.svg?style=flat-square]] |
+ | *feature*  | [[https://img.shields.io/badge/issue-feature-D55E00.svg?style=flat-square]] |
+ | *request*  | [[https://img.shields.io/badge/issue-request-56B4E9.svg?style=flat-square]] |
+ | *wish*     | [[https://img.shields.io/badge/issue-wish-D55E00.svg?style=flat-square]] |
+ | *moonshot* | [[https://img.shields.io/badge/issue-moonshot-999999.svg?style=flat-square]] |
 
 *** Priority 
 
@@ -718,24 +718,24 @@ Used mostly for repo README files
 | [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]] | Licence        |
 
 
-** Category
-| [[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]]        | Descriptive, prescripive, theory, history, background |
-| [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]        | Things that in principle can be built and deployed    |
-| [[https://img.shields.io/badge/category-project-D55E00.svg?style=flat-square]]       | Projects build and deploy things                      |
-| [[https://img.shields.io/badge/category-specification-CC79A7.svg?style=flat-square]] | Technical specifications & standards                  |
+** Entity Classes
+| [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]        | Descriptive, prescripive, theory, history, background |
+| [[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]        | Things that in principle can be built and deployed    |
+| [[https://img.shields.io/badge/class-project-D55E00.svg?style=flat-square]]       | Projects build and deploy things                      |
+| [[https://img.shields.io/badge/class-specification-CC79A7.svg?style=flat-square]] | Technical specifications & standards                  |
 
 ** Entity Types
 
-| [[https://img.shields.io/badge/entity-tl;dr-0072B2.svg?style=flat-square]]    | tl;dr    |
-| [[https://img.shields.io/badge/entity-pattern-0072B2.svg?style=flat-square]]  | pattern  |
-| [[https://img.shields.io/badge/entity-place-0072B2.svg?style=flat-square]]    | place    |
-| [[https://img.shields.io/badge/entity-event-0072B2.svg?style=flat-square]]    | event    |
-| [[https://img.shields.io/badge/entity-person-0072B2.svg?style=flat-square]]   | person   |
-| [[https://img.shields.io/badge/entity-concept-0072B2.svg?style=flat-square]]  | concept  |
-| [[https://img.shields.io/badge/entity-material-0072B2.svg?style=flat-square]] | material |
-| [[https://img.shields.io/badge/entity-blob-0072B2.svg?style=flat-square]]     | blob     |
-| [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]      | TOC      |
-| [[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]   | README   |
+| [[https://img.shields.io/badge/type-tl;dr-0072B2.svg?style=flat-square]]    | tl;dr    |
+| [[https://img.shields.io/badge/type-pattern-0072B2.svg?style=flat-square]]  | pattern  |
+| [[https://img.shields.io/badge/type-place-0072B2.svg?style=flat-square]]    | place    |
+| [[https://img.shields.io/badge/type-event-0072B2.svg?style=flat-square]]    | event    |
+| [[https://img.shields.io/badge/type-person-0072B2.svg?style=flat-square]]   | person   |
+| [[https://img.shields.io/badge/type-concept-0072B2.svg?style=flat-square]]  | concept  |
+| [[https://img.shields.io/badge/type-material-0072B2.svg?style=flat-square]] | material |
+| [[https://img.shields.io/badge/type-blob-0072B2.svg?style=flat-square]]     | blob     |
+| [[https://img.shields.io/badge/type-TOC-0072B2.svg?style=flat-square]]      | TOC      |
+| [[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]   | README   |
 
 ** Status
 
