@@ -668,7 +668,6 @@ Should use
 .tag span.Infra { background: #5CB85C; }
 #+end_src
 
-When rendered in html.
 
  | *Backend*  | Backend Team        | [[https://img.shields.io/badge/team-backend-0072B2.svg?style=flat-square]]  |
  | *Frontend* | Frontend Team       | [[https://img.shields.io/badge/team-frontend-0072B2.svg?style=flat-square]] |
