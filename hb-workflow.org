@@ -645,6 +645,23 @@ contextual meaning. Bootstrap uses the following:
 <span class="label label-default">Default</span>
 #+end_src
 
+** Color Pallete
+
+Colors *SHOULD* use the following color-blind friendly color
+pallete for all gui widgets.
+
+#+begin_src css
+# The palette with grey:
+"#999999", "#E69F00", "#56B4E9", "#009E73", 
+"#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+# The palette with black:
+"#000000", "#E69F00", "#56B4E9", "#009E73", 
+"#F0E442", "#0072B2", "#D55E00", "#CC79A7"
+#+end_src
+
+
+
 ** Place
 
 Places can be either a physical location, an organization or a machine
