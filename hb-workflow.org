@@ -670,11 +670,11 @@ Should use
 
 When rendered in html.
 
- - *Backend*  : Backend Team
- - *Frontend* : Frontend Team
- - *Infra*    : Infrastructure Team
- - *UI*       : User Interface Team
-
+ | *Backend*  | Backend Team        | [[https://img.shields.io/badge/team-backend-0072B2.svg?style=flat-square]]  |
+ | *Frontend* | Frontend Team       | [[https://img.shields.io/badge/team-frontend-0072B2.svg?style=flat-square]] |
+ | *Infra*    | Infrastructure Team | [[https://img.shields.io/badge/team-infra-0072B2.svg?style=flat-square]]    |
+ | *UI*       | User Interface Team | [[https://img.shields.io/badge/team-ui-0072B2.svg?style=flat-square]]       |
+ 
 ** Subject, Type, Priority
 
 *** Workflow: Kanban & TODO
@@ -709,6 +709,9 @@ discussed before being assigned.
 
 
 * Tags
+
+ - https://shields.io/
+
 
 ** Misc
 
