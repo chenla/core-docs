@@ -26,18 +26,7 @@
 
 * Introduction
 
-Company Handbooks
 
- - [[http://www.nasdaq.com/article/6-inspiring-employee-handbook-examples-cm459464][6 Inspiring Employee Handbook Examples]] | Nasdaq
- - Valve: Handbook For New Employees (pdf) | 2012
- - [[https://about.gitlab.com/handbook/][Team Handbook]] | GitLab
- - Zappos 2014 Culture Handbook
-
-Zappos is well known for placing tremendous emphasis on
-cultural fit (so much so that they offer you $3,000 to leave
-after the first week).
-
-#+begin_comment
 A lot of the material in here needs to be moved to other
 files.  All the agile and scrum stuff can go to
 methodologies and meeting stuff can go to communications.
@@ -55,7 +44,18 @@ code and design work.
  - communications
  - rituals
  - remote work
-#+end_comment
+
+
+** Company Handbooks
+
+ - [[http://www.nasdaq.com/article/6-inspiring-employee-handbook-examples-cm459464][6 Inspiring Employee Handbook Examples]] | Nasdaq
+ - Valve: Handbook For New Employees (pdf) | 2012
+ - [[https://about.gitlab.com/handbook/][Team Handbook]] | GitLab
+ - Zappos 2014 Culture Handbook
+
+Zappos is well known for placing tremendous emphasis on
+cultural fit (so much so that they offer you $3,000 to leave
+after the first week).
 
 
 * Management Model
