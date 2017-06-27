@@ -1,25 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Style Guide Handbook
 #+STARTUP: showall
-#+PROPERTY: filename collaboration.org
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/deerpig/deerpig-install/hb-style-guides.org
-  :Created: 2016-08-28T19:23@Wat Phnom (11.5733N17-104.925295W)
-  :ID: 1e3f1ff5-1201-4b49-bad7-749b3dfd2009
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-#+INCLUDE: ./inc/links.org
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/docs/hb-style-guides.org
+:Created:   2016-08-28T19:23@Wat Phnom (11.5733N17-104.925295W)
+:ID:        1e3f1ff5-1201-4b49-bad7-749b3dfd2009
+:VER:       551836597.702163970
+:GEO:       48P-491193-1287029-15
+:BXID:      chenla:PGL7-6867
+:Class:     deploy
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 6
 
 * Introduction
 
