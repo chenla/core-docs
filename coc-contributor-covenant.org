@@ -1,25 +1,28 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Contributor Covenant Code of Conduct
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/docs/contributor-covenant.org
-  :Created: 2017-01-31T14:32@Prek Leap (11.642600N-104.919210W)
-  :ID: eed9fe17-e141-43e4-904c-e7ac9b92dd17
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/docs/coc-contributor-covenant.org
+:Created:   2017-01-31T14:32@Prek Leap (11.642600N-104.919210W)
+:ID:        eed9fe17-e141-43e4-904c-e7ac9b92dd17
+:VER:       551834891.364516507
+:GEO:       48P-491193-1287029-15
+:BXID:      chenla:KGY7-6883
+:Class:     deploy
+:Type:      work
+:Status:    release
+:Licence:   MIT/CC BY-SA 4.0
+:END:
 
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]] 
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 * Our Pledge
 
