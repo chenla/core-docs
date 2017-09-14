@@ -1,7 +1,7 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 
-* Chenla Team & Project Handbooks
+* Chenla Team & Project Handbooks | README
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/docs/README.org
