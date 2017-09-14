@@ -52,6 +52,8 @@ others, but YMMV.  You can find the source code for the site on
  - [[./hb-methodologies.org][Development Methodologies Handbook]]
  - [[./hb-meetings.org][Meetings Handbook]] 
 
+ - [[./hb-issues.org][Issues Handbook]]
+
 * HOWTO
 
  - [[howto-video-conference.org][Video Conferencing HOWTO]]
