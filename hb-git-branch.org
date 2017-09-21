@@ -27,11 +27,13 @@
 
 * Introduction
 
-This is a brilliant article that covers everything.
 
- - [[http://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]] |» nvie.com
 
-We will use his model and the notes below are based on the article.
+  - [[http://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]] | Vincent Driessen
+  - [[https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/][A succesful Git branching model considered harmful]] | Jussi Judin
+
+Our branching model includes a workflow that can be used on the
+command line as well as Emacs Magit.
 
 
 ** 1. All road lead to /origin/ 
@@ -64,4 +66,24 @@ released.
 And =origin/develop= is the main branch where the source code =HEAD=
 always is the primary or latest development code for the next
 release.  This is the branch that will be tested and reviewed before
-being merged with =master=
+being merged with =master= and tagged with a release number.
+
+Nothing is merged with =master= except for production releases. This
+allows us to create a =git hook= or a GitLab =Web Hook= that
+automatically deploys code to the production server.
+
+** 3. Supporting Branches
+
+Supporting branches are used to work on new features, ironing out
+problems  and doing a feature freeze before merging to master, and for
+=hotfix's= which are used to fix a bug or a problem that becomes a
+subrelease when it is merged with =master=.
+
+Supporting branches come in several flavours:
+
+  - Feature branches
+  - Release branches
+  - Hotfix branches
+
+There are strict rules about which branches are an originating branch
+and which branch are merge targets.
