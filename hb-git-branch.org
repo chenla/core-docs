@@ -30,11 +30,26 @@
 Branching models are a complex and hotly debated topic.
 
 
-  - [[http://www.josra.org/blog/An-automated-git-branching-strategy.html][An Automated Git Branching Flow]] | Lars Kruse
+Branching Model we will be based on:
+
   - [[http://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/][A stable mainline branching model for Git]] | Bits'n'Bites
+
+Simular approaches, worth studying:
+
+  - [[http://www.josra.org/blog/An-automated-git-branching-strategy.html][An Automated Git Branching Flow]] | Lars Kruse
   - [[https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/][A succesful Git branching model considered harmful]] | Jussi Judin
 
+---
+
+  - [[https://git-scm.com/book/en/v2/Git-Branching-Rebasing#The-Perils-of-Rebasing][Git - Rebasing]]
+  - [[https://stackoverflow.com/questions/14023648/why-does-my-git-history-look-like-a-christmas-tree][git pull - Why does my git history look like a christmas tree?]] | Stack Overflow
+
 Too complex:
+
+This link shows up at the top of search results.  It's very
+well done and I am sure it works for him.  But it is
+complex and would likely result in a lot of work to merge
+branches.  Well worth reading, but we're not going there.
 
   - [[http://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]] | Vincent Driessen
 
@@ -47,10 +62,14 @@ completed.  We need a workflow and a branching model that is
 designed with this in mind.
 
 We use git for both development of code and for document
-production, which have slightly different workflow.
+production, which have slightly different workflows.
 
 Our branching model includes command line git commands as
 well as Emacs Magit commands.
+
+** Requirements
+
+ - clean history
 
 
 ** All road lead to /origin/ 
@@ -88,3 +107,17 @@ Supporting branches come in several flavours:
   - Release branches
   - Hotfix branches
 
+** Release branches
+
+** Release tags
+
+
+
+[[http://semver.org/][semantic versioning]] 
+
+
+The commit that represents a specific release is tagged with
+a tag named vX.Y.Z, optionally suffixed with a textual
+identifier, such as -rc1, -beta or -some-customer.
+
+Example: v1.3.1-rc2
