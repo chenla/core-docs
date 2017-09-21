@@ -25,7 +25,7 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Introduction
+* Discussion
 
 Branching models are a complex and hotly debated topic.
 
@@ -33,6 +33,7 @@ Branching models are a complex and hotly debated topic.
 Branching Model we will be based on:
 
   - [[http://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/][A stable mainline branching model for Git]] | Bits'n'Bites
+  - [[https://docs.gitlab.com/ee/workflow/gitlab_flow.html][GitLab Flow]] | GitLab Documentation
 
 Simular approaches, worth studying:
 
@@ -41,8 +42,13 @@ Simular approaches, worth studying:
 
 ---
 
+  - [[http://www.bitsnbites.eu/a-tidy-linear-git-history/][A tidy, linear Git history]] | Bits'n'Bites
+  - [[http://semver.org/][semantic versioning]] 
+  - [[http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html][A Note About Git Commit Messages]] | tbaggery
   - [[https://git-scm.com/book/en/v2/Git-Branching-Rebasing#The-Perils-of-Rebasing][Git - Rebasing]]
   - [[https://stackoverflow.com/questions/14023648/why-does-my-git-history-look-like-a-christmas-tree][git pull - Why does my git history look like a christmas tree?]] | Stack Overflow
+  - [[https://martinfowler.com/bliki/FeatureBranch.html][FeatureBranch]] | Martin Fowler
+
 
 Too complex:
 
@@ -67,9 +73,17 @@ production, which have slightly different workflows.
 Our branching model includes command line git commands as
 well as Emacs Magit commands.
 
-** Requirements
 
- - clean history
+* Chenla Git Branching Model
+
+
+Since we've decided to drink the coolaid and go full in with
+GitLab Continuous Integration (CI) our branching model will
+be based on GitLab Flow which is based around three
+/environments/ development, pre-production and production.
+
+
+
 
 
 ** All road lead to /origin/ 
@@ -82,11 +96,13 @@ In all projects, the central repo will be called /origin/
 which will be located on our gitlab server.
 
 
-** The main branch
+** Environment branches
 
-The central repo has a single permanent main branches:
+The central repo has three permanent environment branches:
 
-  - master
+  - master (stable)
+  - staging
+  - production
 
 Where =origin/master= is the main branch where the source
 code of =HEAD= always is considered to be =stable= code
@@ -113,7 +129,7 @@ Supporting branches come in several flavours:
 
 
 
-[[http://semver.org/][semantic versioning]] 
+ - [[http://semver.org/][semantic versioning]] 
 
 
 The commit that represents a specific release is tagged with
