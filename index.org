@@ -43,6 +43,7 @@ others, but YMMV.  You can find the source code for the site on
  - [[./hb-conventions.org][Conventions Handbook]] 
  - [[hb-style-guides.org][Style Guide Handbook]] 
  - [[./hb-workflow.org][Workflow Handbook]] | General
+   - [[./hb-git-branch.org][Git Branching Model]]
    - Publishing Workflow
    - Application Workflow
    - Design Workflow
