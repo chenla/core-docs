@@ -27,57 +27,60 @@
 
 * Introduction
 
+Branching models are a complex and hotly debated topic.
 
 
-  - [[http://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]] | Vincent Driessen
+  - [[http://www.josra.org/blog/An-automated-git-branching-strategy.html][An Automated Git Branching Flow]] | Lars Kruse
+  - [[http://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/][A stable mainline branching model for Git]] | Bits'n'Bites
   - [[https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/][A succesful Git branching model considered harmful]] | Jussi Judin
 
-Our branching model includes a workflow that can be used on the
-command line as well as Emacs Magit.
+Too complex:
+
+  - [[http://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]] | Vincent Driessen
 
 
-** 1. All road lead to /origin/ 
+As Einstein said, we want to keep things as simple as
+possible, but no more.  We also use a continous integration
+model, so that there will be milestone releases, but for the
+most part features and fixes will be rolling out as they are
+completed.  We need a workflow and a branching model that is
+designed with this in mind.
 
-Technically there are not central repos in Git, but for practical
-purposes  every team needs to have a repo that everyone syncs to.
+We use git for both development of code and for document
+production, which have slightly different workflow.
 
-In all projects, the central repo will be called /origin/ which will
-be located on our gitlab server.
+Our branching model includes command line git commands as
+well as Emacs Magit commands.
 
-All this means is that when a project is created, it should be created
-as a GitLab project, and then each developer will either clone the
-repo to their own computer.
 
-If a subteam wants to work on their own subteam repo, team members
-need to create remotes that each point to each others repos.  Again,
-this is best done using the GitLab server.
+** All road lead to /origin/ 
 
-** 2. The main branches
+Technically there are not central repos in Git, but for
+practical purposes every team needs to have a repo that
+everyone syncs to.
 
-The central repo has two permanent main branches:
+In all projects, the central repo will be called /origin/
+which will be located on our gitlab server.
+
+
+** The main branch
+
+The central repo has a single permanent main branches:
 
   - master
-  - develop
 
-Where =origin/master is the main branch where the source code of
-=HEAD= always is considered the production code which is deployed or
-released.
+Where =origin/master= is the main branch where the source
+code of =HEAD= always is considered to be =stable= code
+which builds on all target platforms.
 
-And =origin/develop= is the main branch where the source code =HEAD=
-always is the primary or latest development code for the next
-release.  This is the branch that will be tested and reviewed before
-being merged with =master= and tagged with a release number.
 
-Nothing is merged with =master= except for production releases. This
-allows us to create a =git hook= or a GitLab =Web Hook= that
-automatically deploys code to the production server.
+** Feature Branches
 
-** 3. Supporting Branches
-
-Supporting branches are used to work on new features, ironing out
-problems  and doing a feature freeze before merging to master, and for
-=hotfix's= which are used to fix a bug or a problem that becomes a
-subrelease when it is merged with =master=.
+Supporting branches are used to work on new features,
+ironing out problems and doing a feature freeze before
+merging to master, and for =hotfix's= which are used to fix
+a bug or a problem that becomes a subrelease when it is
+merged with =master=.
 
 Supporting branches come in several flavours:
 
@@ -85,5 +88,3 @@ Supporting branches come in several flavours:
   - Release branches
   - Hotfix branches
 
-There are strict rules about which branches are an originating branch
-and which branch are merge targets.
