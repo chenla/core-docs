@@ -27,3 +27,41 @@
 
 * Introduction
 
+This is a brilliant article that covers everything.
+
+ - [[http://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]] |» nvie.com
+
+We will use his model and the notes below are based on the article.
+
+
+** 1. All road lead to /origin/ 
+
+Technically there are not central repos in Git, but for practical
+purposes  every team needs to have a repo that everyone syncs to.
+
+In all projects, the central repo will be called /origin/ which will
+be located on our gitlab server.
+
+All this means is that when a project is created, it should be created
+as a GitLab project, and then each developer will either clone the
+repo to their own computer.
+
+If a subteam wants to work on their own subteam repo, team members
+need to create remotes that each point to each others repos.  Again,
+this is best done using the GitLab server.
+
+** 2. The main branches
+
+The central repo has two permanent main branches:
+
+  - master
+  - develop
+
+Where =origin/master is the main branch where the source code of
+=HEAD= always is considered the production code which is deployed or
+released.
+
+And =origin/develop= is the main branch where the source code =HEAD=
+always is the primary or latest development code for the next
+release.  This is the branch that will be tested and reviewed before
+being merged with =master=
