@@ -37,11 +37,13 @@ We break eveything into five groups which roughly correspond
 to how the Institute is organized.
 
 ** Institute
-- chenla-org-src/posts/pages/rb/hb
+- chenla-org-src/posts/pages
+- chenla-org-hb (handbooks)
 - team/proj/event (issue)
 - team-src/posts/pages/rb/hb
 ** Cloud
-- cloud-chenla-org-src/posts/pages/rb/hb
+- cloud-chenla-org-src/posts/pages
+- cloud-chenla.org-rb (runbooks)
 - team (issue) 
 - team-src/posts/pages/rb/hb
 - Support
