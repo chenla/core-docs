@@ -27,3 +27,35 @@
 
 * Introduction
 
+In GitLab you can collect related projects together into
+=Groups= that collectively share issues, issue labels and
+access to members of the group.  Each group get's their own
+unique namespace on the installed GitLab instance in the
+same way that usernames are used as namespaces on instance.
+
+We break eveything into five groups which roughly correspond
+to how the Institute is organized.
+
+** Institute
+- chenla-org-src/posts/pages/rb/hb
+- team/proj/event (issue)
+- team-src/posts/pages/rb/hb
+** Cloud
+- cloud-chenla-org-src/posts/pages/rb/hb
+- team (issue) 
+- team-src/posts/pages/rb/hb
+- Support
+- Infrastructure
+** Hoard
+- plan-src/posts/pages/work/notes/ts
+- prolog-*
+- primer-*
+- tspace-*
+** Research
+- b2i-src/posts/pages
+- project (issue)
+- project-src/post/pages/work/rb/hb
+** Study
+- department-src/pages
+- program-cert/as/aa/bs/ba/ms/ma
+- course-ciriculum/tb/wb/exam
