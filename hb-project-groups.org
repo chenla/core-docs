@@ -37,15 +37,15 @@ We break eveything into five groups which roughly correspond
 to how the Institute is organized.
 
 ** Institute
-- chenla-org-src/posts/pages
+- chenla-org-src/content
 - chenla-org-hb (handbooks)
 - team/proj/event (issue)
-- team-src/posts/pages/rb/hb
+- team-src/content/rb/hb
 ** Cloud
-- cloud-chenla-org-src/posts/pages
+- cloud-chenla-org-src/content
 - cloud-chenla.org-rb (runbooks)
 - team (issue) 
-- team-src/posts/pages/rb/hb
+- team-src/content/rb/hb
 - Support
 - Infrastructure
 ** Hoard
@@ -56,7 +56,7 @@ to how the Institute is organized.
 ** Research
 - b2i-src/posts/pages
 - project (issue)
-- project-src/post/pages/work/rb/hb
+- project-src/content/work/rb/hb
 ** Study
 - department-src/pages
 - program-cert/as/aa/bs/ba/ms/ma
