@@ -25,7 +25,11 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
+
 * Introduction
+
+The workflow mostly follows [[https://docs.gitlab.com/ee/workflow/gitlab_flow.html][GitLab Flow]] git branching and workflow.
+
 
 ** Start a project
 
@@ -64,4 +68,27 @@
 
  4. checkout the new branch, do the work.
 
-    a. create merge request with no assignee to get feedback
+    - create merge request with no assignee to get feedback
+    - when ready, assign the merge request to the person in charge of
+      merging for final review.  
+    - after it's been approved, merged, and the issue closed, delete
+      branch.
+
+** Deploy to Staging Environment
+
+When =master= is ready for release, push to =stage= which will trigger
+tests and build.  For web sites, it will also deploy to a staging web
+site where it can undergo final QA testing.
+
+Any bugs found should be fixed in =master= and then cherry picked and
+merged into =stage=.  This ensures that all bug fixes are in the main
+trunk and won't get lost or forgotten.
+
+For simple web projects there is no nead for a staging environment, as
+testing can be done directly from =master= so features can be pushed
+directly to =production=.
+
+** Deploy to Production
+
+When =stage= has been reviewed and approved, push to =production=
+which will trigger automatic deployment to the server.
