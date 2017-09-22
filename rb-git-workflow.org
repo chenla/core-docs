@@ -27,3 +27,41 @@
 
 * Introduction
 
+** Start a project
+
+ 1. create repo on git.chenla.org
+
+    this repos will be =origin=
+
+ 2. on your box either:
+
+    - clone repo from git.chenla.org
+    - create empty repo, =git init=,  =git add .=, =git commit -m
+      "initial commit"=
+       then add a remote that points to the new repo.
+
+** Create permanent branches
+
+ 1. stage, production
+
+ 2. create webhook =stage= builds and deploys to =beta.example.com=
+
+ 3. create webhook =production= deploys to =www.example.com=
+
+** Add a feature
+
+ 1. Make sure you are in =master=, this should be the default.
+
+ 2. Create an issue in GitLab that describes what you will do.
+
+    "create base web site using Bootstrap, Font Awesome and Jekyll"
+
+    Assign your self to the issue.
+
+ 3. create branch that begins with the issue number
+
+    "#2-create-base-site"
+
+ 4. checkout the new branch, do the work.
+
+    a. create merge request with no assignee to get feedback
