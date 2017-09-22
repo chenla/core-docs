@@ -54,7 +54,7 @@ others, but YMMV.  You can find the source code for the site on
  - [[./hb-meetings.org][Meetings Handbook]] 
 
  - [[./hb-issues.org][Issues Handbook]]
-
+ - [[hb-project-groups.org][Project Groups]]
 * HOWTO
 
  - [[howto-video-conference.org][Video Conferencing HOWTO]]
