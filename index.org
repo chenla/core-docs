@@ -53,6 +53,8 @@ others, but YMMV.  You can find the source code for the site on
  - [[./hb-deployment-integration.org][Deployment & Integration Handbook]]
  - [[./hb-issues.org][Issues Handbook]]
  - [[./hb-project-groups.org][Project Groups]]
+ - [[./hb-context-shifting.org][Context Shifting]]
+
 * HOWTO
 
  - [[howto-video-conference.org][Video Conferencing HOWTO]]
