@@ -1,0 +1,29 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Context Shifting
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/docs/hb-context-shifting.org
+:Created:   2017-10-17T10:04@Prek Leap (11.642600N-104.919210W)
+:ID:        d7c2f05b-a22a-4835-818f-39bf313f413b
+:VER:       561481562.445165344
+:GEO:       48P-491193-1287029-15
+:BXID:      docs:EPK4-3231
+:Class:     docs
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-docs-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
+
