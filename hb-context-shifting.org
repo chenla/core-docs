@@ -40,7 +40,7 @@ mental, physical tasks entail context switching as well.
   - [[https://blog.codinghorror.com/the-multi-tasking-myth/][The Multitasking Myth]] | Coding Horror
 
 Kathy Sierra has some good points as well, despite repeatedly using
-the weasel word /mindfulness/ thoughout the posts.
+the [[https://en.wikipedia.org/wiki/Weasel_word][weasel word]] /mindfulness/ thoughout the first post.
   - [[http://headrush.typepad.com/creating_passionate_users/2005/03/your_brain_on_m.html][Creating Passionate Users: Your brain on multitasking]] | Kathy Sierra
   - [[http://headrush.typepad.com/creating_passionate_users/2006/03/multitasking_ma.html][Creating Passionate Users: Multitasking makes us stupid?]] | Kathy Sierra
 
