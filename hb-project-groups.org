@@ -36,7 +36,7 @@ same way that usernames are used as namespaces on instance.
 We break eveything into five groups which roughly correspond
 to how the Institute is organized.
 
-** Institute
+** Chenla
 - chenla-org-src/content
 - chenla-org-hb (handbooks)
 - team/proj/event (issue)
