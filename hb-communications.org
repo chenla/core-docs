@@ -163,13 +163,6 @@ Epicurians and Process Philosophers and you have a very
 powerful personal philosophy which I will call /Scopism/ or
 Scopic Philosophy & Ethics.
 
-* Methodologies
-:NOTE: will be split off into hb-methodology.org
-
-
- - Eric Raymond | The Cathedral and the Bazaar -- 1997
-
-
 * Etiquette
 :NOTE: will be split off into hb-etiquette.org
 
@@ -372,8 +365,6 @@ Why Is Fancy Email So Bad?
 
 1. It's even in the name.  The word fancy is seldom used to
    mean anything positive.
-
-* Chenla (b>i) Workflow
 
 * References
 
