@@ -77,9 +77,9 @@ add their own labels.
      comment from stakeholders before deploying the
      resolution and closing the issue.
 
-- done-cbb :: /done, could be better/
-  It is kind of resolved, but the solution isn't very nice or
-  efficient.
+- done-cbb :: /Done, could be better/ It is kind of
+              resolved, but the solution isn't very nice or
+              efficient.
 
 - resolved ::  The issue has been resolved or completed. But
      please do not do this lightly.  Ensure that you have
