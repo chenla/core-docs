@@ -46,13 +46,7 @@ text.  But this we use CriticMarkup.  If you edit an existing piece of
 text, use CriticMarkup using =cm-mode= in emacs or criticmarkup support
 in a number of other editors and then commit the the marked up file to
 be reviewed and the changes intregrated into the site.
-
-* Chelpa: Chenla Elpa Mirror Repository
-
-To keep everyone's emacs in sync, so that there are no problems with
-deployment, or with dependencies, we run our own Elpa Mirror =CHELPA=.
-
- https://github.com/redguardtoo/elpa-mirror
+http://github.com/redguardtoo/elpa-mirror
 
 * UsePackage
 
