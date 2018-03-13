@@ -79,7 +79,7 @@ add their own labels.
 
 - done-cbb :: /done, could be better/
   It is kind of resolved, but the solution isn't very nice or
-  efficient.[1]
+  efficient.
 
 - resolved ::  The issue has been resolved or completed. But
      please do not do this lightly.  Ensure that you have
@@ -110,10 +110,10 @@ add their own labels.
      immediate emergancy, but *SHOULD* be reviewed and
      resolved as soon as possible.
 
-- bug :: A non-crtical or urgent bug, that should be fixed
+- bug :: A non-critical or urgent bug, that should be fixed
      in the next release.
 
-- feature :: This is a new feature that has been accepted
+- feature :: For new features that has been accepted
      for inclusion in the project, which needs to be added
      to the /backlog/.
 
@@ -133,8 +133,10 @@ add their own labels.
 
  - documentation :: Documentation issues.
  - milestone     :: Project milestones.
- - roadmap       :: Institute, Group or Project Rodmap issues.
- - backend       :: Issues related to back end server code.
+ - roadmap       :: Institute, Group or Project Roadmap issues.
+ - backend       :: Issues related to back end server code
+                    and system administration.
  - frontend      :: Issues related to User Interface.
- - database      :: Database related issues.
+ - database      :: Database related issues, including SQL,
+                    Graph and K-V Stores
 
