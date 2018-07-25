@@ -604,25 +604,55 @@ sprint.
 
 * Keywords/Tags/Labels
 
-In orgmode they are called tags, in the roundup tracker they are call
-keywords, in GitLab they are called labels (though we don't use
-GitLab), on Twitter they're called hashtags, but they all amount to
-the same thing.
+In orgmode they are called tags, in GitLab they are called
+labels, on Twitter they're called hashtags, but they all
+amount to the same thing.
 
-Tags (hey, I'm an emacs guy) are useful in many different contexts,
-but they become a lot more useful when used consistently.  GitLab
-breaks down tags into three groups; team, subject, and type.
+Tags are useful in many different contexts, but they become
+a lot more useful when used consistently.  GitLab breaks
+down tags into three groups; team, subject, and type.
 
 Tags *MUST* be unique strings that are formally /defined/ in the
 Chenla =topicspace=.
--- so that eventually, they will become machine understandable and can
-be linked to their definition.
+
+  | Class        | Name        | Color   | Org Tags      | Badge |
+  |--------------+-------------+---------+---------------+-------|
+  | Team         | @Backend    | #7F8C8D | :@backend:    |       |
+  | (brown)      | @Frontend   | #7F8C8D | :@frontend:   |       |
+  |              | @Operations | #7F8C8D | :@operations: |       |
+  |              | @Admin      | #7F8C8D | :@admin:      |       |
+  | Workflow     | Plan/Todo   | #FF0000 | * PLAN/* TODO |       |
+  | (red-purple) | Next        | #CC0033 | * NEXT        |       |
+  |              | Work        | #8E44AD | * WORK        |       |
+  |              | Done        | #5843AD | * DONE        |       |
+  | Issues       | Bug         | #69D100 | :BUG:         |       |
+  | (green)      | Feature     | #5CB85C | :FEATURE:     |       |
+  |              | Request     | #44AD8E | :REQUEST:     |       |
+  |              | Wish        | #A8D695 | :WISH:        |       |
+  |              | Moonshot    | #A8D695 | :MOONSHOT:    |       |
+  | Priority     | Critical    | #CC0033 | :CRITICAL:    |       |
+  | (red)        | #P1 / High  | #FF0000 | #A            |       |
+  |              | #P2 / Med   | #F0AD4E | #B            |       |
+  |              | #P3 / Low   | #69D100 | #C            |       |
+  | Release      | Stub        | #428BCA | :STUB:        |       |
+  | (blue)       | Draft       | #428BCA | :DRAFT:       |       |
+  |              | Release     | #0033CC | :RELEASE:     |       |
+  |              | Design      | #0033CC | :DESIGN       |       |
+  |              | Demo        | #0033CC | :DEMO:        |       |
+  | Status       | Confirmed   | #AD4363 | :CONFIRMED:   |       |
+  |              | Broken      | #AD4363 | :BROKEN:      |       |
+  |              | Discuss     | #AD4363 | :DISCUSS:     |       |
+  |              | Review      | #AD4363 | :REVIEW:      |       |
+  |              | Approved    | #AD4363 | :APPROVED:    |       |
+  |              | Testing     | #AD4363 | :TESTING:     |       |
+
+
 
 ** Format
 
-Tags *MUST* adhere to the =gracefully degrade= pattern and work both
-in monochrome plain text displays as well as in graphical color
-displays.
+Tags *MUST* adhere to the =gracefully degrade= pattern and
+work both in monochrome plain text displays as well as in
+graphical color displays.
 
 
   | @place  | .team/org/proj | #subject/type |
@@ -696,7 +726,7 @@ Should use
 
  | *Backend*  | Backend Team        | [[https://img.shields.io/badge/team-backend-0072B2.svg?style=flat-square]]  |
  | *Frontend* | Frontend Team       | [[https://img.shields.io/badge/team-frontend-0072B2.svg?style=flat-square]] |
- | *Infra*    | Infrastructure Team | [[https://img.shields.io/badge/team-infra-0072B2.svg?style=flat-square]]    |
+ | *Ops*      | Operations Team     | [[https://img.shields.io/badge/team-infra-0072B2.svg?style=flat-square]]    |
  | *UI*       | User Interface Team | [[https://img.shields.io/badge/team-ui-0072B2.svg?style=flat-square]]       |
  
 ** Subject, Type, Priority
@@ -732,7 +762,7 @@ discussed before being assigned.
    or goals.
 
 
-* Tags
+* Badges
 
  - https://shields.io/
 
@@ -803,7 +833,7 @@ Our irc server is http://irc.chenla.org
 
 ** Mattermost
 
-Our mattermost server will be at http://mm.chenla.org
+
 
 ** Informative References
 
